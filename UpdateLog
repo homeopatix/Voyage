@@ -1,0 +1,181 @@
+UPDATE V2.9
+(French)
+Ajout de nouvelles cartes
+Ajout de nouveau teleport
+Rajout d'une options pour verrouiller ou deverrouiller les icones
+(English)
+Adding new maps
+Added new milestones
+Addition of an option to lock or unlock the icons
+(Deutsche)
+Neue Karten hinzufügen
+Neue Meilensteine ​​hinzugefügt
+Hinzufügen einer Option zum Sperren oder Entsperren der Symbole
+
+UPDATE V2.8
+(French)
+Ajout de nouvelles cartes
+Ajout de nouveau teleport
+Corriger un bug avec la touche escape
+(English)
+Adding new maps
+Added new milestones
+Correct a bug with the escape key
+(Deutsche)
+Neue Karten hinzufügen
+Neue Meilensteine ​​hinzugefügt
+Beheben Sie einen Fehler mit der Escape-Taste
+
+UPDATE V2.7
+(French)
+Ajout de nouvelles cartes
+Ajout de nouveau teleport
+(English)
+Adding new maps
+Added new milestones
+(Deutsche)
+Neue Karten hinzufügen
+Neue Meilensteine ​​hinzugefügt
+
+UPDATE V2.6
+(French)
+Ajout d'une icon sur la carte qui affiche l'emplacement de la teleportation
+Correction de quelques traduction
+Rajout de nouvelles map
+Correction du Mordor
+(English)
+Added an icon on the map that displays the location of the teleportation
+Correction of some translations
+Addition of new maps
+Correction of Mordor
+(Deutsche)
+Auf der Karte wurde ein Symbol hinzugefügt, das den Ort der Teleportation anzeigt
+Korrektur einiger Übersetzungen
+Hinzufügen neuer Karten
+Korrektur von Mordor
+
+UPDATE V2.5
+(French)
+Arranger les slots d'icones pour plus de finesse
+Maintenant besoin d'appuyer sur la touche alt pour déplacer l'icone pricipale
+Ajout de nouvelles cartes
+(English)
+Arrange the icon slots for more finesse
+Now need to press the alt key to move the main icon
+Adding new maps
+(Deutsche)
+Ordnen Sie die Symbol-Slots für mehr Finesse an
+Jetzt müssen Sie die Alt-Taste drücken, um das Hauptsymbol zu verschieben
+Neue Karten hinzufügen
+
+UPDATE V2.4
+(French)
+Ajout de nouvelles cartes
+(English)
+Adding new maps
+(Deutsche)
+Neue Karten hinzufügen
+
+UPDATE V2.3
+(French)
+Ajout de nouvelles cartes
+Corriger un bug dans les cartes de Rhovanion
+(English)
+Adding new maps
+Fix a bug in Rhovanion maps
+(Deutsche)
+Neue Karten hinzufügen
+Behebung eines Fehlers in Rhovanion-Karten
+
+UPDATE V2.2
+(French)
+Ajout de nouvelles cartes
+(English)
+Adding new maps
+(Deutsche)
+Neue Karten hinzufügen
+
+UPDATE V2.1
+(French)
+Ajout de deux commande pour effacer les raccourcis
+/Voy clearteleport
+/Voy clearhouse
+Corriger la taille de la fenetre d'aide en allemand qui doit etre plus grande
+(English)
+Added two command to delete shortcuts
+/Voy clearteleport
+/Voy clearhouse
+Correct the size of the German help window which should be larger
+(Deutsche)
+Es wurden zwei Befehle zum Löschen von Verknüpfungen hinzugefügt
+/Voy clearteleport
+/Voy clearhouse
+Korrigieren Sie die Größe des deutschen Hilfefensters, das größer sein sollte
+
+UPDATE V2.0
+(French)
+TRADUCTION TERMIEE
+Si vous rencontrer des erreurs de traduction SVP retourner les moi que je puisse faire
+la correction, c'est très difficile de traduire ce genre de texte
+(English)
+TRANSLATION COMPLETED
+If you encounter any translation errors please return them to me so I can do it.
+the correction, it is very difficult to translate this kind of text
+(Deutsche)
+ÜBERSETZUNG ABGESCHLOSSEN
+Wenn Sie auf Übersetzungsfehler stoßen, senden Sie diese bitte an mich zurück, damit ich dies tun kann.
+Bei der Korrektur ist es sehr schwierig, diese Art von Text zu übersetzen
+
+
+UPDATE V1.06
+(French)
+TRADUCTION PAS TERMIEE A 100% pour le français
+Réécriture de la fenetre d'options
+Rajout d'un clique droite sur l'icone qui affiche une carte de la destination des teleport
+(English)
+Rewrite the options window
+Addition of a right click on the icon which displays a map of the destination of the milestones
+(Deutsche)
+ÜBERSETZUNG NICHT 100% ABGESCHLOSSEN für Deutsch
+Schreiben Sie das Optionsfenster neu
+Hinzufügen eines Rechtsklicks auf das Symbol, das eine Karte des Ziels der Meilensteine ​​anzeigt
+
+UPDATE V1.05
+(French)
+Corriger un bug dans la command /default
+(English)
+Correct a bug in the /default command
+(Deutsche)
+Korrigieren Sie einen Fehler im Befehl /default
+
+UPDATE V1.04
+(French)
+Corriger un bug dans le monsterPlay
+Rajout d'une fenetre d'aide
+Rajout d'un clique droite sur l'icone qui affiche une carte de la destination
+Réécriture de la fenetre d'options
+Correction de la traduction
+(English)
+Fix some bugs
+Correct a bug in the monsterPlay
+Addition of a help window
+Addition of a right click on the icon which displays a map of the destination
+Rewrite the options window
+Correction of the translation
+(Deutsche)
+Beheben Sie einen Fehler im monsterPlay
+Hinzufügen eines Hilfefensters
+Hinzufügen eines Rechtsklicks auf das Symbol, das eine Karte des Ziels anzeigt
+Schreiben Sie das Optionsfenster neu
+Korrektur der Übersetzung
+
+UPDATE V1.02
+(French)
+Corriger quelques bug
+Corriger la version monsterPlay qui permet de conserver l'edition personel des raccourcis
+(English)
+Fix some bugs
+Correct the monsterPlay version which allows you to keep the personal edition of the shortcuts
+(Deutsche)
+Beheben Sie einige Fehler
+Korrigieren Sie die monsterPlay-Version, mit der Sie die persönliche Ausgabe der Verknüpfungen beibehalten können
