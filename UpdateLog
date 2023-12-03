@@ -1,3 +1,41 @@
+UPDATE V3.41
+(French)
+Corriger un bug d'affichage des icons de la classe du marin et les icones de reputation de Umbar
+[COLOR="Red"]!!! Vous devez supprimer le fichier Voyage_Settings.plugindata !!![/COLOR]
+qui se trouve dans Documents\The Lord of the Rings Online\PluginData\<votre nom de compte>\<Le nom du serveur>\<Le nom du personnage>\Voyage_Settings.plugindata
+(English)
+Fix a display bug for sailor class icons and Umbar reputation icons
+[COLOR="Red"]!!! You need to delete the Voyage_Settings.plugindata file !!![/COLOR]
+located in Documents\The Lord of the Rings Online\PluginData\<your account name>\<Server name>\<Character name>\Voyage_Settings.plugindata
+(Deutsche)
+Behebung eines Anzeigefehlers für Matrosenklassensymbole und Umbar-Rufsymbole
+[COLOR="Red"]!!! Sie müssen die Datei Voyage_Settings.plugindata löschen !!![/COLOR]
+befindet sich unter Dokumente\Der Herr der Ringe Online\PluginData\<Ihr Kontoname>\<Servername>\<Charaktername>\Voyage_Settings.plugindata
+
+UPDATE V3.40
+(French)
+Rajout de 15 nouveaux teleports
+(English)
+Addition of 15 new teleports
+(Deutsche)
+Hinzufügung von 15 neuen Teleportern
+
+UPDATE V3.39
+(French)
+Rajout de 5 nouveaux teleports
+(English)
+Addition of 5 new teleports
+(Deutsche)
+Hinzufügung von 5 neuen Teleportern
+
+UPDATE V3.38
+(French)
+Corriger un bug qui empêchait la sauvegarde de la configuration
+(English)
+Fix a bug that prevented the configuration from being saved
+(Deutsche)
+Behebung eines Fehlers, der das Speichern der Konfiguration verhinderte
+
 UPDATE V3.37
 (French)
 Rajout des voyage de classe pour le marin
