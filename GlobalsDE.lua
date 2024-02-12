@@ -19,98 +19,98 @@ function CreateLocalizationInfo()
 		Strings.PluginAltDesable = "Alt-Taste deaktiviert";
 		Strings.PluginOptionsText = "Voyage Optionen";
 		Strings.PluginTitreHelpWindow = "Hilfe f\195\188r Voyage";
-		Strings.PluginHouseText = "Hauslage";
+		Strings.PluginHouseText = "Standort";
 		Strings.PluginDateUpdate = "09.01.2024";
 		------------------------------------------------------------------------------------------
 		-- help --
 		------------------------------------------------------------------------------------------
 		Strings.PluginHelp1 = "\n\nListe der Befehle:\n";
-		Strings.PluginHelp2 = "/Voy help - Schaufenster help.\n";
-		Strings.PluginHelp3 = "/Voy show - Schaufenster.\n";
-		Strings.PluginHelp4 = "/Voy hide - verstecke das Fenster.\n";
-		Strings.PluginHelp5 = "/Voy default - Verkn\195\188pfungen zur\195\188cksetzen.\n";
-		Strings.PluginHelp6 = "/Voy lock um die Symbole zu sperren oder zu entsperren\n";
-		Strings.PluginHelp7 = "/Voy options - Zeigen Sie das Optionsfenster an.\n";
-		Strings.PluginHelp8 = "/Voy clear - L\195\182schen Sie alle Verkn\195\188pfungen.\n";
-		Strings.PluginHelp9 = "/Voy clearteleport - L\195\182schen Sie alle Meilensteinpositionen.\n";
-		Strings.PluginHelp10 = "/Voy alt - ALT-Taste gedr\195\188ckt halten, um das Symbol zu verschieben.\n";
-		Strings.PluginHelp11 = "/Voy clearhouse - L\195\182schen Sie alle Standorte der H\195\164user.\n";
-		Strings.PluginHelp12 = "/Voy toggle - Fenster ein-oder ausblenden\n\n";
-		Strings.PluginHelp13 = "Klicken Sie mit der rechten Maustaste auf das Symbol, um das Optionsfeld anzuzeigen";
-		Strings.PluginHelp14 = "Zeigen Sie Standard-Reputationsverkn\195\188pfungen an. Sie k\195\182nnen das \195\164stchen deaktivieren\n";
-		Strings.PluginHelp15 = "< Reputationsreise anzeigen >, um sie auszuschalten\n\n";
-		Strings.PluginHelp16 = "Sie k\195\182nnen die Position der Verkn\195\188pfungen \195\164ndern oder weitere hinzuf\195\188gen, indem Sie sie ziehen und ablegen und auf klicken\n";
-		Strings.PluginHelp17 = "< Behalten Sie Ihre \195\132nderungen > bei, um die automatische Generierung von Verkn\195\188pfungen zu deaktivieren\n";
-		Strings.PluginHelp18 = "und behalten Sie Ihre \195\132nderungen\n\n";
-		Strings.PluginHelp19 = "Sie k\195\182nnen den Standort Ihrer verschiedenen H\195\164user definieren, indem Sie auf das Symbol klicken\n";
-		Strings.PluginHelp20 = "des kleinen Hauses rechts vom Text\n\n";
-		Strings.PluginHelp21 = "Sie k\195\182nnen den Ort Ihrer Meilensteine ​​definieren, indem Sie auf das Symbol klicken\n\n";
-		Strings.PluginHelp22 = "Sie k\195\182nnen eine Verkn\195\188pfung mit dem Mausrad l\195\182schen\n\n";
-		Strings.PluginHelp23 = "Sie k\195\182nnen mit der rechten Maustaste auf eine Verkn\195\188pfung klicken, um die Karte des Ziels anzuzeigen\n";
-		Strings.PluginHelp24 = "oder klicken Sie mit der rechten Maustaste auf dieselbe Verkn\195\188pfung, um sie zu schlie\195\159en\n\n";
+		Strings.PluginHelp2 = "/voy help - Zeigt das Hilfefenster an.\n";
+		Strings.PluginHelp3 = "/voy show - Zeigt das Fenster an.\n";
+		Strings.PluginHelp4 = "/voy hide - Blendet das Fenster aus.\n";
+		Strings.PluginHelp5 = "/voy default - Setzt die Einstellungen zur\195\188ck.\n";
+		Strings.PluginHelp6 = "/voy lock um die Symbole zu sperren oder zu entsperren\n";
+		Strings.PluginHelp7 = "/voy options - Zeigt die Optionen an.\n";
+		Strings.PluginHelp8 = "/voy clear - L\195\182scht alle Verkn\195\188pfungen.\n";
+		Strings.PluginHelp9 = "/voy clearteleport - L\195\182scht alle Markstein-Fertigkeiten.\n";
+		Strings.PluginHelp10 = "/voy alt - Alt-Taste gedr\195\188ckt halten, um das Symbol zu verschieben.\n";
+		Strings.PluginHelp11 = "/voy clearhouse - L\195\182scht alle Standorte der H\195\164user.\n";
+		Strings.PluginHelp12 = "/voy toggle - Fenster anzeigen/ausblenden.\n\n";
+		Strings.PluginHelp13 = "Klicke mit der rechten Maustaste auf das Symbol, um die Optionen anzuzeigen.\n\n";
+		Strings.PluginHelp14 = "Klicke mit der rechten Maustaste auf eine Reisefertigkeit, um die Karte des Ziels anzuzeigen ";
+		Strings.PluginHelp15 = "und klicke ein zweites Mal, um sie wieder zu schlie\195\159en.\n\n";
+		Strings.PluginHelp16 = "Du kannst eine Verkn\195\188pfung l\195\182schen, in dem du mit dem Mauszeiger darauf zeigst und das Mausrad drehst.\n";
+		Strings.PluginHelp17 = "Die Verkn\195\188pfungen d\195\188rfen dazu nicht gesperrt sein!\n\n";
+		Strings.PluginHelp18 = "Lege den Standort der Markstein-Fertigkeiten fest, indem du auf das Symbol klickst.\n\n";
+		Strings.PluginHelp19 = "Lege den Standort der verschiedenen H\195\164user fest, ";
+		Strings.PluginHelp20 = "indem du auf das kleine Haus-Symbol rechts neben dem Namen klickst.\n\n";
+		Strings.PluginHelp21 = "Du kannst die Ruf-Reisefertigkeiten ausblenden lassen, ";
+		Strings.PluginHelp22 = "indem du das entsprechende K\195\164stchen deaktivierst.\n\n";
+		Strings.PluginHelp23 = "Wenn du die Reisefertigkeiten manuell \195\164nderst oder durch Drag & Drop weitere hinzuf\195\188gst, ";
+		Strings.PluginHelp24 = "kannst du die \195\132nderungen speichern, in dem du die Option \'Manuelle \195\132nderungen beibehalten\' aktivierst.\n";
 		------------------------------------------------------------------------------------------
 		-- map window --
 		------------------------------------------------------------------------------------------
-		Strings.PluginMap1 = "schlie\195\159e das Fenster";
-		Strings.PluginMap2 = "Nicht definiert";
+		Strings.PluginMap1 = "Fenster schlie\195\159en";
+		Strings.PluginMap2 = "Nicht festgelegt";
 		------------------------------------------------------------------------------------------
 		-- house location  --
 		------------------------------------------------------------------------------------------
-		Strings.PluginHousePersonal = "Pers\195\182nliche Hauslage";
-		Strings.PluginHouseConfrerie = "Haus der Bruderschaft";
-		Strings.PluginHouseConfrerieFriend = "Bruderschaft Freund Haus";
-		Strings.PluginHousePremium = "Premium-Haus";
-		Strings.PluginHouse1 = " BreeLand";
+		Strings.PluginHousePersonal = "W\195\164hle den Standort des eigenen Heims:";
+		Strings.PluginHouseConfrerie = "W\195\164hle den Standort des Sippenhauses";
+		Strings.PluginHouseConfrerieFriend = "W\195\164hle den Standort des Haus eines Sippenmitglieds";
+		Strings.PluginHousePremium = "W\195\164hle den Standort des Premiumheims";
+		Strings.PluginHouse1 = " Breeland";
 		Strings.PluginHouse2 = " Falathlorn";
-		Strings.PluginHouse3 = " Thorins halle";
-		Strings.PluginHouse4 = " AuenLand";
+		Strings.PluginHouse3 = " Thorins Halle";
+		Strings.PluginHouse4 = " Auenland";
 		Strings.PluginHouse5 = " Ostfold-H\195\188gel";
 		Strings.PluginHouse6 = " K\195\182nigsstattweiden";
-		Strings.PluginHouse7 = " kaps von Belfalas";
+		Strings.PluginHouse7 = " Kap von Belfalas";
 		Strings.PluginHouse8 = " Erebor";
-		Strings.PluginHouseAlert = "Pers\195\182nliches Haus nicht in den Optionen definiert";
-		Strings.PluginTeleportAlert = "Meilenstein nicht in Optionen definiert";
+		Strings.PluginHouseAlert = "Eigenes Heim nicht in den Optionen festgelegt";
+		Strings.PluginTeleportAlert = "Markstein nicht in den Optionen festgelegt";
 		------------------------------------------------------------------------------------------
 		-- command text  --
 		------------------------------------------------------------------------------------------
-		Strings.PluginWindowShow = "Schaufenster.";
-		Strings.PluginWindowHide = "Verstecke das Fenster.";
-		Strings.PluginWindowDefault = "Auf Standardeinstellungen zur\195\188cksetzen.";
-		Strings.PluginWindowClear = "L\195\182schen Sie alle Verkn\195\188pfungen.";
-		Strings.PluginWindowClearTeleport = "L\195\182schen Sie alle Meilensteinpositionen.";
-		Strings.PluginWindowClearHouse = "L\195\182schen Sie alle Standorte der H\195\164user.";
-		Strings.PluginLocked = "Gesperrte Symbole";
-		Strings.PluginUnlocked = "Symbole freigeschaltet";
+		Strings.PluginWindowShow = "Fenster wird angezeigt";
+		Strings.PluginWindowHide = "Fenster wird ausgeblendet";
+		Strings.PluginWindowDefault = "Auf Standardeinstellungen zur\195\188ckgesetzt!";
+		Strings.PluginWindowClear = "Alle Verkn\195\188pfungen gel\195\182scht!";
+		Strings.PluginWindowClearTeleport = "Alle Markstein-Fertigkeiten gel\195\182scht!";
+		Strings.PluginWindowClearHouse = "Alle Standorte der H\195\164user gel\195\182scht!";
+		Strings.PluginLocked = "Verkn\195\188pfungen gesperrt";
+		Strings.PluginUnlocked = "Verkn\195\188pfungen entsperrt";
 		------------------------------------------------------------------------------------------
 		-- option window --
 		------------------------------------------------------------------------------------------
 		Strings.PluginOption1 = "Anzahl der Zeilen";
-		Strings.PluginOption2 = "Anzahl der Steckpl\195\164tze pro Zeile";
-		Strings.PluginOption3 = "Anzahl Zu einem gebundenen Markstein zur\195\188ckkehren";
-		Strings.PluginOption4 = "Zur\195\188ck zuhause...";
+		Strings.PluginOption2 = "Anzahl der Spalten";
+		Strings.PluginOption3 = "Anzahl der Markstein-Fertigkeiten";
+		Strings.PluginOption4 = "Zur\195\188ck nach Hause...";
 		Strings.PluginOption5 = " Eigenes Heim";
-		Strings.PluginOption6 = " Heim Eurer Sippe";
+		Strings.PluginOption6 = " Sippenhaus";
 		Strings.PluginOption7 = " Premiumheim";
-		Strings.PluginOption8 = "Reputationsreisen anzeigen";
-		Strings.PluginOption9 = " Ja";
-		Strings.PluginOption10 = "\195\132nderungen validieren";
-		Strings.PluginOption11 = "Heim des Sippenmitglieds";
-		Strings.PluginOption12 = " Behalten Sie Ihre \195\132nderungen";
-		Strings.PluginOptionAlert = "!!! REINITIALISIEREN SIE ALLE KURZSCHNITTE !!!";
-		Strings.PluginOptionShowWindow = "Zeigen Sie das Optionsfenster an";
+		Strings.PluginOption8 = "Ruf-Reisefertigkeiten anzeigen";
+		Strings.PluginOption9 = " Anzeigen";
+		Strings.PluginOption10 = "Speichern";
+		Strings.PluginOption11 = "Haus des Sippenmitglieds";
+		Strings.PluginOption12 = " Manuelle \195\132nderungen beibehalten";
+		Strings.PluginOptionAlert = "!!! ACHTUNG: ALLE REISEFERTIGKEITEN\n WERDEN ERNEUT INITIALISIERT !!!";
+		Strings.PluginOptionShowWindow = "Optionen werden angezeigt";
 		------------------------------------------------------------------------------------------
 		-- label text  --
 		------------------------------------------------------------------------------------------
-		Strings.PluginLabel1 = "Pers\195\182nliche Hauslage";
-		Strings.PluginLabel2 = "Verwandtschaftshaus Lage";
-		Strings.PluginLabel3 = "Verwandtschaftsfreund Hausstandort";
-		Strings.PluginLabel4 = "Premium Hauslage";
-		Strings.PluginLabel5 = "Zeigen Sie die Hilfe";
+		Strings.PluginLabel1 = "Standort festlegen";
+		Strings.PluginLabel2 = "Standort festlegen";
+		Strings.PluginLabel3 = "Standort festlegen";
+		Strings.PluginLabel4 = "Standort festlegen";
+		Strings.PluginLabel5 = "Hilfe anzeigen";
 		Strings.PluginButtonHelpWindow = "Hilfe schlie\195\159en";
 		------------------------------------------------------------------------------------------
 		-- TELEPORT LOCATIONS --
 		------------------------------------------------------------------------------------------
-		Strings.PluginDefinTeleport = "Meilenstein definieren";
+		Strings.PluginDefinTeleport = "Markstein festlegen";
 		------------------------------------------------------------------------------------------
 		-- Teleport Location  REGION --
 		------------------------------------------------------------------------------------------
@@ -131,9 +131,9 @@ function CreateLocalizationInfo()
 		Strings.TeleportSousRegion6 = "Evendim";
 		Strings.TeleportSousRegion7 = "Forochel";
 		Strings.TeleportSousRegion8 = "Einsame Lande";
-		Strings.TeleportSousRegion9 = "Nebel-Gebirge";
+		Strings.TeleportSousRegion9 = "Nebelgebirge";
 		Strings.TeleportSousRegion10 = "Nordh\195\182hen";
-		Strings.TeleportSousRegion11 = "Auen-Land";
+		Strings.TeleportSousRegion11 = "Auenland";
 		Strings.TeleportSousRegion12 = "Die Fernen Auen"; -- New from U33
 		Strings.TeleportSousRegion13 = "Trollh\195\182hen";
 		Strings.TeleportSousRegion14 = "Der Bogen von Mitheithel";
@@ -147,26 +147,26 @@ function CreateLocalizationInfo()
 		Strings.TeleportSousRegion18 = "D\195\188sterwald";
 		Strings.TeleportSousRegion19 = "Moria";
 		Strings.TeleportSousRegion20 = "Trum Dreng";
-		Strings.TeleportSousRegion21 = "Les landes farouches";
-		Strings.TeleportSousRegion22 = "Heathfells";
+		Strings.TeleportSousRegion21 = "Wildermark";
+		Strings.TeleportSousRegion22 = "Heidefall";
 		Strings.TeleportSousRegion23 = "Nan Curun\195\173r";
 		Strings.TeleportSousRegion24 = "Isengard";
 		Strings.TeleportSousRegion25 = "Nan Curun\195\173r";
 		Strings.TeleportSousRegion26 = "Braune Lande";
-		Strings.TeleportSousRegion27 = "entwasser-tal";
+		Strings.TeleportSousRegion27 = "Entwasser-Tal";
 		Strings.TeleportSousRegion28 = "Norhofen";
 		Strings.TeleportSousRegion29 = "Suthofen";
-		Strings.TeleportSousRegion30 = "Der ostwall";
-		Strings.TeleportSousRegion31 = "Die steppe";
+		Strings.TeleportSousRegion30 = "Der Ostwall";
+		Strings.TeleportSousRegion31 = "Die Steppe";
 		Strings.TeleportSousRegion32 = "K\195\182nigsstatt";
 		Strings.TeleportSousRegion33 = "Ostfold";
-		Strings.TeleportSousRegion34 = "Weite mark";
-		Strings.TeleportSousRegion35 = "felssenke";
+		Strings.TeleportSousRegion34 = "Weite Mark";
+		Strings.TeleportSousRegion35 = "Felssenke";
 		Strings.TeleportSousRegion36 = "Westfold";
-		Strings.TeleportSousRegion37 = "Helms klamm";
+		Strings.TeleportSousRegion37 = "Helms Klamm";
 		Strings.TeleportSousRegion38 = "Die T\195\164ler des Anduin";    
 		Strings.TeleportSousRegion39 = "Quellen des Langflut";    
-		Strings.TeleportSousRegion40 = "Altestental";    
+		Strings.TeleportSousRegion40 = "\195\132ltestental";    
 		Strings.TeleportSousRegion41 = "Eisenberge";     
 		Strings.TeleportSousRegion42 = "Das Thalland";     
 		Strings.TeleportSousRegion43 = "Ered Mithrin";     
@@ -187,7 +187,7 @@ function CreateLocalizationInfo()
 		Strings.TeleportSousRegion55 = "Taur Dr\195\186adan";
 		Strings.TeleportSousRegion56 = "Talath Anor";
 		Strings.TeleportSousRegion57 = "Pelennor";
-		Strings.TeleportSousRegion58 = "Pelennor, nach Kampf";
+		Strings.TeleportSousRegion58 = "Pelennor, nach dem Krieg";
 		Strings.TeleportSousRegion59 = "Nord-Ithilien";
 		------------------------------------------------------------------------------------------
 		-- Teleport sous Location Mordor --
@@ -216,18 +216,18 @@ function CreateLocalizationInfo()
 		------------------------------------------------------------------------------------------
 		-- Teleport sous Location Umbar --
 		------------------------------------------------------------------------------------------
-		Strings.TeleportSousRegion78 = "Lossarnach (K\195\182niglicher Gondor)";
-		Strings.TeleportSousRegion79 = "Ober-Lebennin (K\195\182niglicher Gondor)";
-		Strings.TeleportSousRegion80 = "Unter-lebennin (K\195\182niglicher Gondor)";
-		Strings.TeleportSousRegion81 = "Pelargir (K\195\182niglicher Gondor)"; -- new from U38
-		Strings.TeleportSousRegion82 = "Dor-en-ernil (K\195\182niglicher Gondor)";
-		Strings.TeleportSousRegion83 = "Lamedon (K\195\182niglicher Gondor)"; -- new from U38
-		Strings.TeleportSousRegion84 = "Ringl\195\179tal (K\195\182niglicher Gondor)"; -- new from U38
-		Strings.TeleportSousRegion85 = "Anfurten von Belfalas (K\195\182niglicher Gondor)"; -- new from U38
-		Strings.TeleportSousRegion86 = "Schwarzgrundtal (K\195\182niglicher Gondor)"; -- new from U38
+		Strings.TeleportSousRegion78 = "Lossarnach (K\195\182nigreich Gondor)";
+		Strings.TeleportSousRegion79 = "Ober-Lebennin (K\195\182nigreich Gondor)";
+		Strings.TeleportSousRegion80 = "Unter-lebennin (K\195\182nigreich Gondor)";
+		Strings.TeleportSousRegion81 = "Pelargir (K\195\182nigreich Gondor)"; -- new from U38
+		Strings.TeleportSousRegion82 = "Dor-en-ernil (K\195\182nigreich Gondor)";
+		Strings.TeleportSousRegion83 = "Lamedon (K\195\182nigreich Gondor)"; -- new from U38
+		Strings.TeleportSousRegion84 = "Ringl\195\179tal (K\195\182nigreich Gondor)"; -- new from U38
+		Strings.TeleportSousRegion85 = "Anfurten von Belfalas (K\195\182nigreich Gondor)"; -- new from U38
+		Strings.TeleportSousRegion86 = "Schwarzgrundtal (K\195\182nigreich Gondor)"; -- new from U38
 		Strings.TeleportSousRegion87 = "Anfalas"; -- new from U38
 		Strings.TeleportSousRegion88 = "Pinnath Gelin"; -- new from U38
-		Strings.TeleportSousRegion89 = "Die schildinseln von Umbar";
+		Strings.TeleportSousRegion89 = "Die Schildinseln";
 		Strings.TeleportSousRegion90 = "Kap von Umbar";
 		Strings.TeleportSousRegion91 = "Umbar Baharb\195\170l";
 		------------------------------------------------------------------------------------------
@@ -244,7 +244,7 @@ function CreateLocalizationInfo()
 		------------------------------------------------------------------------------------------
 		Strings.Teleport[7] = " Archet";
 		Strings.Teleport[8] = " Bree - S\195\188dtor";
-		Strings.Teleport[9] = " Bree - T\195\164nzelnden Pony";
+		Strings.Teleport[9] = " Bree - T\195\164nzelndes Pony";
 		Strings.Teleport[10] = " Bree - Westtor";
 		Strings.Teleport[11] = " Siedlung Breeland";
 		Strings.Teleport[12] = " Buckland";
@@ -256,8 +256,8 @@ function CreateLocalizationInfo()
 		Strings.Teleport[15] = " Lhanuch";
 		Strings.Teleport[16] = " Harndirion";
 		Strings.Teleport[17] = " Maur Tulhau";
-		Strings.Teleport[18] = " N\195\161r's Peak";
-		Strings.Teleport[19] = " Lich Bluffs";
+		Strings.Teleport[18] = " N\195\161r's Gipfel";
+		Strings.Teleport[19] = " Leichenklippen";
 		Strings.Teleport[20] = " Trauerh\195\182hen";
 		------------------------------------------------------------------------------------------
 		-- Teleport Location Ered Luin  --
@@ -267,7 +267,7 @@ function CreateLocalizationInfo()
 		Strings.Teleport[23] = " Gondamon";
 		Strings.Teleport[24] = " Siedlung Falathlorn";
 		Strings.Teleport[25] = " Thorins Halle";
-		Strings.Teleport[26] = " Siedlung Thorin's Hall ";
+		Strings.Teleport[26] = " Siedlung Thorins Halle";
 		------------------------------------------------------------------------------------------
 		-- Teleport Location Eregion  --
 		------------------------------------------------------------------------------------------
@@ -280,7 +280,7 @@ function CreateLocalizationInfo()
 		------------------------------------------------------------------------------------------
 		Strings.Teleport[31] = " Tinnudir";
 		Strings.Teleport[32] = " Ann\195\186minas";
-		Strings.Teleport[33] = " Der traufenspitz";
+		Strings.Teleport[33] = " Der Traufenspitz";
 		Strings.Teleport[34] = " Feste Forod";
 		Strings.Teleport[35] = " Kreuzung des K\195\182nigs";
 		Strings.Teleport[36] = " Hafergut";
@@ -302,7 +302,7 @@ function CreateLocalizationInfo()
 		------------------------------------------------------------------------------------------
 		-- Teleport Location The misty moutains  --
 		------------------------------------------------------------------------------------------
-		Strings.Teleport[45] = " Gl\195\179in's lager";
+		Strings.Teleport[45] = " Gl\195\179in's Lager";
 		Strings.Teleport[46] = " Vindurhal";
 		------------------------------------------------------------------------------------------
 		-- Teleport Location The north Downs  --
@@ -312,16 +312,16 @@ function CreateLocalizationInfo()
 		------------------------------------------------------------------------------------------
 		-- Teleport Location The shire  --
 		------------------------------------------------------------------------------------------
-		Strings.Teleport[49] = " Dashbauten";
+		Strings.Teleport[49] = " Dachsbauten";
 		Strings.Teleport[50] = " Balgfurt";
 		Strings.Teleport[51] = " Hobbingen";
-		Strings.Teleport[52] = " L\195\188tzel-Binge";
-		Strings.Teleport[53] = " Michel-Binge";
+		Strings.Teleport[52] = " L\195\188tzelbinge";
+		Strings.Teleport[53] = " Michelbinge";
 		Strings.Teleport[54] = " Siedlung Auenland";
 		------------------------------------------------------------------------------------------
 		-- Teleport Location la comté lointaine  --
 		------------------------------------------------------------------------------------------
-		Strings.Teleport[55] = " Nobottle";
+		Strings.Teleport[55] = " Neuhausen";
 		------------------------------------------------------------------------------------------
 		-- Teleport Location The trollshaws  --
 		------------------------------------------------------------------------------------------
@@ -341,19 +341,19 @@ function CreateLocalizationInfo()
 		Strings.Teleport[62] = " Gerwins Konvoi"; 
 		Strings.Teleport[63] = " Herne";
 		Strings.Teleport[64] = " Sirlond";
-		Strings.Teleport[65] = " Scurloc-Farm";
+		Strings.Teleport[65] = " Scurloc-Hof";
 		Strings.Teleport[66] = " Lager der Steinernte";
 
 		------------------------------------------------------------------------------------------
 		-- Teleport Location Les Noues aux cignes  -- -- new from U34
 		------------------------------------------------------------------------------------------
-		Strings.Teleport[67] = " Schaumholz"; 
+		Strings.Teleport[67] = " Mosshang"; 
 		Strings.Teleport[68] = " Clegur";
-		Strings.Teleport[69] = " Lhan garan";
+		Strings.Teleport[69] = " Lhan Garan";
 		Strings.Teleport[70] = " Caras Gelebren";
-		Strings.Teleport[71] = " Glyn Helvg";
+		Strings.Teleport[71] = " Glyn Helyg";
 		Strings.Teleport[72] = " Lintrev";
-		Strings.Teleport[73] = " Than Celechir";
+		Strings.Teleport[73] = " Tham Celechir";
 		------------------------------------------------------------------------------------------
 		-- Teleport Region Rhovanion  --
 		------------------------------------------------------------------------------------------
@@ -368,7 +368,7 @@ function CreateLocalizationInfo()
 		-- Teleport Location Mirkwood  --
 		------------------------------------------------------------------------------------------
 		Strings.Teleport[78] = " Dunkelsenke";
-		Strings.Teleport[79] = " Heimgesuchte gasthaus";
+		Strings.Teleport[79] = " Das heimgesuchte Gasthaus";
 		Strings.Teleport[80] = " Feste Galadh";
 		Strings.Teleport[81] = " Estolad Mernael";
 		Strings.Teleport[82] = " Mithechad";
@@ -376,24 +376,24 @@ function CreateLocalizationInfo()
 		------------------------------------------------------------------------------------------
 		-- Teleport Location Moria  --
 		------------------------------------------------------------------------------------------
-		Strings.Teleport[84] = " Dis gro\195\159binge";
-		Strings.Teleport[85] = " Durins weg";
-		Strings.Teleport[86] = " Tiefer abgrund";
-		Strings.Teleport[87] = " kammer des scheidewegs";
-		Strings.Teleport[88] = " Einundzwanzigste halle";
-		Strings.Teleport[89] = " Die lodernden tiefen";
-		Strings.Teleport[90] = " Das Wasser-Werk";
-		Strings.Teleport[91] = " Stein-Fundament";
+		Strings.Teleport[84] = " Die Gro\195\159binge";
+		Strings.Teleport[85] = " Durins Weg";
+		Strings.Teleport[86] = " Tiefer Abgrund";
+		Strings.Teleport[87] = " Kammer des Scheidewegs";
+		Strings.Teleport[88] = " Einundzwanzigste Halle";
+		Strings.Teleport[89] = " Lodernde Tiefen";
+		Strings.Teleport[90] = " Das Wasserwerk";
+		Strings.Teleport[91] = " Steinfundament";
 		Strings.Teleport[92] = " Rothorn-Adern";
 		Strings.Teleport[93] = " Jaz\195\162rgund";
-		Strings.Teleport[94] = " Die Reisszahngrube";
+		Strings.Teleport[94] = " Die Rei\195\159zahngrube";
 		------------------------------------------------------------------------------------------
 		-- Teleport Location Pays de Dun  --
 		------------------------------------------------------------------------------------------
 		Strings.Teleport[95] = " Lhan Tarren";
 		Strings.Teleport[96] = " Echad Naeglanc";
 		Strings.Teleport[97] = " Galtrev";
-		Strings.Teleport[98] = " T\195\162l Methedras tor";
+		Strings.Teleport[98] = " T\195\162l Methedras (Tor)";
 		Strings.Teleport[99] = " Avardin";
 		Strings.Teleport[100] = " Kundschafterlager der Rohirrim";
 		Strings.Teleport[101] = " Lhan Rhos";
@@ -427,17 +427,17 @@ function CreateLocalizationInfo()
 		Strings.Teleport[110] = " Stangard";
 		Strings.Teleport[111] = " Klageh\195\188gel";
 		Strings.Teleport[112] = " Parth Celebrant";
-		Strings.Teleport[113] = " Aculf's lager";
+		Strings.Teleport[113] = " Aculf's Lager";
 		Strings.Teleport[114] = " Haldirith";
 		------------------------------------------------------------------------------------------
 		-- Teleport Location Entwash Vale  --
 		------------------------------------------------------------------------------------------
-		Strings.Teleport[115] = " Eaworth";
+		Strings.Teleport[115] = " Ohrenburg";
 		Strings.Teleport[116] = " Dornenwarte";
 		------------------------------------------------------------------------------------------
 		-- Teleport Location Norcrofts  --
 		------------------------------------------------------------------------------------------
-		Strings.Teleport[117] = " Stadt des waldmeisters";
+		Strings.Teleport[117] = " Stadt des Waldmeisters";
 		Strings.Teleport[118] = " Elthengels";
 		Strings.Teleport[119] = " Feldheim";
 		------------------------------------------------------------------------------------------
@@ -450,7 +450,7 @@ function CreateLocalizationInfo()
 		------------------------------------------------------------------------------------------
 		-- Teleport Location The East Wall  --
 		------------------------------------------------------------------------------------------
-		Strings.Teleport[124] = " Mansigs lager";
+		Strings.Teleport[124] = " Mansigs Lager";
 		Strings.Teleport[125] = " Parth Galen";
 		------------------------------------------------------------------------------------------
 		-- Teleport Location The Wold  --
@@ -472,27 +472,27 @@ function CreateLocalizationInfo()
 		------------------------------------------------------------------------------------------
 		Strings.Teleport[135] = " Aldburg";
 		Strings.Teleport[136] = " Leuchtfeuerwacht";
-		Strings.Teleport[137] = " Fenmarkt";
+		Strings.Teleport[137] = " Fenmark";
 		------------------------------------------------------------------------------------------
 		-- Teleport Location Eastfold  --
 		------------------------------------------------------------------------------------------
-		Strings.Teleport[138] = " Oserley";
+		Strings.Teleport[138] = " Ostweide";
 		Strings.Teleport[139] = " Schlotheim";
 		------------------------------------------------------------------------------------------
 		-- Teleport Location Stonedeans  --
 		------------------------------------------------------------------------------------------
 		Strings.Teleport[140] = " Holzm\195\188hle";
-		Strings.Teleport[141] = " Bachbr\195\188cke";
+		Strings.Teleport[141] = " Bachbr\195\188ck";
 		Strings.Teleport[142] = " Gapholt";
 		------------------------------------------------------------------------------------------
 		-- Teleport Location Westfold  --
 		------------------------------------------------------------------------------------------
 		Strings.Teleport[143] = " Grimslade";
-		Strings.Teleport[144] = " Helms klamm";
+		Strings.Teleport[144] = " Helms Klamm";
 		------------------------------------------------------------------------------------------
 		-- Teleport Location Helm's Deep  --
 		------------------------------------------------------------------------------------------
-		Strings.Teleport[145] = " Helms klamm";
+		Strings.Teleport[145] = " Helms Klamm";
 		------------------------------------------------------------------------------------------
 		-- Teleport Location val d'andiun  --
 		------------------------------------------------------------------------------------------
