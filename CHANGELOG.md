@@ -1,598 +1,1169 @@
-# 📜 Changelog -- Voyage
-
 ------------------------------------------------------------------------
 
-## 🔹 Version V3.46
+## V3.46
 
-(French) Corriger un bug creer avec la derniere mise à jour (English)
-Fix a bug created with the last update (Deutsche) Korrigieren Sie einen
-Fehler, der mit dem letzten Update erstellt wurde
+### 🇫🇷 Français
 
-------------------------------------------------------------------------
+-   Corriger un bug creer avec la derniere mise à jour
 
-## 🔹 Version V3.45
+### 🇬🇧 English
 
-(French) Corriger une erreur de positionnement d'un teleport
-Optimisation du code, pour une meilleur réactivité (English) Correct a
-teleport positioning error Code optimization for better responsiveness
-(Deutsche) Korrigieren Sie einen Teleport-Positionierungsfehler
-Codeoptimierung für bessere Reaktionsfähigkeit
+-   Fix a bug created with the last update
 
+### 🇩🇪 Deutsch
+
+-   Korrigieren Sie einen Fehler, der mit dem letzten Update erstellt
+    wurde
+
 ------------------------------------------------------------------------
+
+## V3.45
 
-## 🔹 Version V3.44
+### 🇫🇷 Français
 
-(French) Rajout de 1 nouveau teleport (English) Addition of 1 new
-teleport (Deutsche) Hinzufügung von 1 neuem Teleport
+-   Corriger une erreur de positionnement d'un teleport Optimisation du
+    code, pour une meilleur réactivité
 
+### 🇬🇧 English
+
+-   Correct a teleport positioning error Code optimization for better
+    responsiveness
+
+### 🇩🇪 Deutsch
+
+-   Korrigieren Sie einen Teleport-Positionierungsfehler Codeoptimierung
+    für bessere Reaktionsfähigkeit
+
 ------------------------------------------------------------------------
+
+## V3.44
 
-## 🔹 Version V3.43
+### 🇫🇷 Français
 
-(French) Rajout de 1 nouveau teleport Rajout des cartes de Anfalas et
-Pinath Gelin (English) Addition of 1 new teleport Addition of Anfalas
-and Pinath Gelin maps (Deutsche) Hinzufügung von 1 neuem Teleport
-Hinzufügung von Anfalas- und Pinath-Gelin-Karten
+-   Rajout de 1 nouveau teleport
 
+### 🇬🇧 English
+
+-   Addition of 1 new teleport
+
+### 🇩🇪 Deutsch
+
+-   Hinzufügung von 1 neuem Teleport
+
 ------------------------------------------------------------------------
+
+## V3.43
 
-## 🔹 Version V3.42
+### 🇫🇷 Français
 
-(French) Rajout de 10 nouveaux teleports Rajout de toutes les cartes du
-Gondor royal (English) Addition of 10 new teleports Added all the maps
-of Royal Gondor (Deutsche) Hinzufügung von 10 neuen Teleportern Added
-all the maps of Royal Gondor ...
+-   Rajout de 1 nouveau teleport Rajout des cartes de Anfalas et Pinath
+    Gelin
 
+### 🇬🇧 English
+
+-   Addition of 1 new teleport Addition of Anfalas and Pinath Gelin maps
+
+### 🇩🇪 Deutsch
+
+-   Hinzufügung von 1 neuem Teleport Hinzufügung von Anfalas- und
+    Pinath-Gelin-Karten
+
 ------------------------------------------------------------------------
+
+## V3.42
 
-## 🔹 Version V3.41
+### 🇫🇷 Français
 
-(French) Corriger un bug d'affichage des icons de la classe du marin et
-les icones de reputation de Umbar \[COLOR="Red"\]!!! Vous devez
-supprimer le fichier Voyage_Settings.plugindata !!\[/COLOR\] qui se
-trouve dans Documents`\The `{=tex}Lord of the Rings
-Online`\PluginData`{=tex}\<votre nom de compte\>\<Le nom du
-serveur\>\<Le nom du personnage\>`\Voyage`{=tex}\_Settings.plugindata
-(English) Fix a display bug for sailor class icons and Umbar reputation
-icons \[COLOR="Red"\]!!! You need to delete the
-Voyage_Settings.plugindata file !!\[/COLOR\] located in
-Documents`\The `{=tex}Lord of the Rings Online`\PluginData`{=tex}\<your
-account name\>\<Server name\>\<Character
-name\>`\Voyage`{=tex}\_Settings.plugindata (Deutsche) Behebung eines
-Anzeigefehlers für Matrosenklassensymbole und Umbar-Rufsymbole
-\[COLOR="Red"\]!!! Sie müssen die Datei Voyage_Settings.plugindata
-löschen !!\[/COLOR\] befindet sich unter Dokumente`\Der `{=tex}Herr der
-Ringe Online`\PluginData`{=tex}\<Ihr
-Kontoname\>\<Servername\>\<Charaktername\>`\Voyage`{=tex}\_Settings.plugindata
+-   Rajout de 10 nouveaux teleports Rajout de toutes les cartes du
+    Gondor royal
 
+### 🇬🇧 English
+
+-   Addition of 10 new teleports Added all the maps of Royal Gondor
+
+### 🇩🇪 Deutsch
+
+-   Hinzufügung von 10 neuen Teleportern Added all the maps of Royal
+    Gondor ...
+
 ------------------------------------------------------------------------
+
+## V3.41
 
-## 🔹 Version V3.40
+### 🇫🇷 Français
 
-(French) Rajout de 15 nouveaux teleports (English) Addition of 15 new
-teleports (Deutsche) Hinzufügung von 15 neuen Teleportern
+-   Corriger un bug d'affichage des icons de la classe du marin et les
+    icones de reputation de Umbar \[COLOR="Red"\]!!! Vous devez
+    supprimer le fichier Voyage_Settings.plugindata !!\[/COLOR\] qui se
+    trouve dans Documents`\The`{=tex}Lord of the Rings
+    Online`\PluginData`{=tex}\<votre nom de compte\>\<Le nom du
+    serveur\>\<Le nom du
+    personnage\>`\Voyage`{=tex}\_Settings.plugindata
 
+### 🇬🇧 English
+
+-   Fix a display bug for sailor class icons and Umbar reputation icons
+    \[COLOR="Red"\]!!! You need to delete the Voyage_Settings.plugindata
+    file !!\[/COLOR\] located in Documents`\The`{=tex}Lord of the Rings
+    Online`\PluginData`{=tex}\<your account name\>\<Server
+    name\>\<Character name\>`\Voyage`{=tex}\_Settings.plugindata
+
+### 🇩🇪 Deutsch
+
+-   Behebung eines Anzeigefehlers für Matrosenklassensymbole und
+    Umbar-Rufsymbole \[COLOR="Red"\]!!! Sie müssen die Datei
+    Voyage_Settings.plugindata löschen !!\[/COLOR\] befindet sich unter
+    Dokumente`\Der`{=tex}Herr der Ringe Online`\PluginData`{=tex}\<Ihr
+    Kontoname\>\<Servername\>\<Charaktername\>`\Voyage`{=tex}\_Settings.plugindata
+
 ------------------------------------------------------------------------
+
+## V3.40
 
-## 🔹 Version V3.39
+### 🇫🇷 Français
 
-(French) Rajout de 5 nouveaux teleports (English) Addition of 5 new
-teleports (Deutsche) Hinzufügung von 5 neuen Teleportern
+-   Rajout de 15 nouveaux teleports
 
+### 🇬🇧 English
+
+-   Addition of 15 new teleports
+
+### 🇩🇪 Deutsch
+
+-   Hinzufügung von 15 neuen Teleportern
+
 ------------------------------------------------------------------------
+
+## V3.39
 
-## 🔹 Version V3.38
+### 🇫🇷 Français
 
-(French) Corriger un bug qui empêchait la sauvegarde de la configuration
-(English) Fix a bug that prevented the configuration from being saved
-(Deutsche) Behebung eines Fehlers, der das Speichern der Konfiguration
-verhinderte
+-   Rajout de 5 nouveaux teleports
 
+### 🇬🇧 English
+
+-   Addition of 5 new teleports
+
+### 🇩🇪 Deutsch
+
+-   Hinzufügung von 5 neuen Teleportern
+
 ------------------------------------------------------------------------
+
+## V3.38
+
+### 🇫🇷 Français
 
-## 🔹 Version V3.37
+-   Corriger un bug qui empêchait la sauvegarde de la configuration
 
-(French) Rajout des voyage de classe pour le marin (English) Addition of
-class trips for the mariner (Deutsche) Hinzufügung von Klassenfahrten
-für den Segler
+### 🇬🇧 English
 
+-   Fix a bug that prevented the configuration from being saved
+
+### 🇩🇪 Deutsch
+
+-   Behebung eines Fehlers, der das Speichern der Konfiguration
+    verhinderte
+
 ------------------------------------------------------------------------
+
+## V3.37
+
+### 🇫🇷 Français
 
-## 🔹 Version V3.36
+-   Rajout des voyage de classe pour le marin
 
-(French) Rajout des cartes et des zones pour la U38 - Umbar (English)
-Addition of maps and zones for U38 - Umbar (Deutsche) Hinzufügung von
-Karten und Zonen für U38 -- Umbar
+### 🇬🇧 English
 
+-   Addition of class trips for the mariner
+
+### 🇩🇪 Deutsch
+
+-   Hinzufügung von Klassenfahrten für den Segler
+
 ------------------------------------------------------------------------
+
+## V3.36
+
+### 🇫🇷 Français
 
-## 🔹 Version V3.35
+-   Rajout des cartes et des zones pour la U38 - Umbar
 
-(French) Corriger un bug avec les hobbit des rivières (English)
-Corrected a bug with the river hobbit (Deutsche) Ein Fehler mit dem
-Flusshobbit wurde behoben
+### 🇬🇧 English
 
+-   Addition of maps and zones for U38 - Umbar
+
+### 🇩🇪 Deutsch
+
+-   Hinzufügung von Karten und Zonen für U38 -- Umbar
+
 ------------------------------------------------------------------------
+
+## V3.35
+
+### 🇫🇷 Français
 
-## 🔹 Version V3.34
+-   Corriger un bug avec les hobbit des rivières
 
-(French) Rajout de la nouvelle race les hobbit des rivières (English)
-Added the new race the river hobbit (Deutsche) Die neue Rasse
-Flusshobbit wurde hinzugefügt
+### 🇬🇧 English
 
+-   Corrected a bug with the river hobbit
+
+### 🇩🇪 Deutsch
+
+-   Ein Fehler mit dem Flusshobbit wurde behoben
+
 ------------------------------------------------------------------------
+
+## V3.34
+
+### 🇫🇷 Français
+
+-   Rajout de la nouvelle race les hobbit des rivières
 
-## 🔹 Version V3.33
+### 🇬🇧 English
 
-Corriger un bug rajouter dans la dernière mise à jour (English) Fix a
-bug add in the latest update (Deutsche) Beheben Sie einen Fehler, der im
-neuesten Update hinzugefügt wurde
+-   Added the new race the river hobbit
 
+### 🇩🇪 Deutsch
+
+-   Die neue Rasse Flusshobbit wurde hinzugefügt
+
 ------------------------------------------------------------------------
+
+## V3.33
+
+## \### 🇫🇷 Français
+
+### 🇬🇧 English
 
-## 🔹 Version V3.32
+-   Fix a bug add in the latest update
 
-(French) Rajout du teleport de Pelargir pour la U36 (English) Added
-Pelargir teleport for the U36 (Deutsche) Pelargir-Teleport für U36
-hinzugefügt
+### 🇩🇪 Deutsch
 
+-   Beheben Sie einen Fehler, der im neuesten Update hinzugefügt wurde
+
 ------------------------------------------------------------------------
+
+## V3.32
+
+### 🇫🇷 Français
+
+-   Rajout du teleport de Pelargir pour la U36
+
+### 🇬🇧 English
 
-## 🔹 Version V3.31
+-   Added Pelargir teleport for the U36
 
-(French) Rajout de la carte de Carn Dum (English) Addition of Carn Dum's
-map (Deutsche) Hinzufügung der Karte von Carn Dum
+### 🇩🇪 Deutsch
 
+-   Pelargir-Teleport für U36 hinzugefügt
+
 ------------------------------------------------------------------------
+
+## V3.31
+
+### 🇫🇷 Français
+
+-   Rajout de la carte de Carn Dum
+
+### 🇬🇧 English
 
-## 🔹 Version V3.29
+-   Addition of Carn Dum's map
 
-(French) Rajout de teleport de reputation pour Glân Vraig (English)
-Addition of reputation teleport for Glân Vraig (Deutsche)
-Rufteleportation für Glân Vraig hinzugefügt
+### 🇩🇪 Deutsch
 
+-   Hinzufügung der Karte von Carn Dum
+
 ------------------------------------------------------------------------
+
+## V3.29
+
+### 🇫🇷 Français
+
+-   Rajout de teleport de reputation pour Glân Vraig
+
+### 🇬🇧 English
+
+-   Addition of reputation teleport for Glân Vraig
 
-## 🔹 Version V3.28
+### 🇩🇪 Deutsch
 
-(French) Rajout de teleport de la version U35 et corretion d'un bug dans
-la list des teleport dans la version allemande et dans la version
-anglaise (English) Added teleport of the U35 version and corretion of a
-bug in the list of teleports in the German version and in the English
-version (Deutsche) Teleport der U35-Version hinzugefügt und Korrektur
-eines Fehlers in der Liste der Teleporter in der deutschen Version und
-in der englischen Version
+-   Rufteleportation für Glân Vraig hinzugefügt
 
 ------------------------------------------------------------------------
 
-## 🔹 Version V3.27
+## V3.28
 
-(French) Rajout de 11 nouveau TP de la region de cardolan et de la noue
-aux cygnes (English) Addition of 11 new TP of the region of cardolan and
-swanfleet (Deutsche) Hinzufügung von 11 neuen TP von der Region Cardolan
-und Schwanfleet
+### 🇫🇷 Français
 
+-   Rajout de teleport de la version U35 et corretion d'un bug dans la
+    list des teleport dans la version allemande et dans la version
+    anglaise
+
+### 🇬🇧 English
+
+-   Added teleport of the U35 version and corretion of a bug in the list
+    of teleports in the German version and in the English version
+
+### 🇩🇪 Deutsch
+
+-   Teleport der U35-Version hinzugefügt und Korrektur eines Fehlers in
+    der Liste der Teleporter in der deutschen Version und in der
+    englischen Version
+
 ------------------------------------------------------------------------
+
+## V3.27
+
+### 🇫🇷 Français
+
+-   Rajout de 11 nouveau TP de la region de cardolan et de la noue aux
+    cygnes
+
+### 🇬🇧 English
+
+-   Addition of 11 new TP of the region of cardolan and swanfleet
 
-## 🔹 Version V3.26
+### 🇩🇪 Deutsch
 
-(French) Rajout de 16 nouveau TP de race et de réputation (English)
-Addition of 16 new race and reputation TPs (Deutsche) Hinzufügung von 16
-neuen Rassen- und Ruf-TPs
+-   Hinzufügung von 11 neuen TP von der Region Cardolan und Schwanfleet
 
 ------------------------------------------------------------------------
 
-## 🔹 Version V3.25
+## V3.26
 
-(French) Correction d'un bug d'affichage dans la fenêtre de la carte
-(English) Fixed a display bug in the map window (Deutsche) Anzeigefehler
-im Kartenfenster behoben
+### 🇫🇷 Français
 
+-   Rajout de 16 nouveau TP de race et de réputation
+
+### 🇬🇧 English
+
+-   Addition of 16 new race and reputation TPs
+
+### 🇩🇪 Deutsch
+
+-   Hinzufügung von 16 neuen Rassen- und Ruf-TPs
+
 ------------------------------------------------------------------------
 
-## 🔹 Version V3.24
+## V3.25
 
-(French) Rajout de la carte De la comté lointaine Rajout du nouveau
-teleport de la zone Correction de la carte de la trouées des trolls
-(English) Addition of the yorkshire map Addition of the new teleport of
-the zone Fixed the Trollshaw map (Deutsche) Hinzufügen der Die Fernen
-Auen-Karte Hinzufügung des neuen Teleporters der Zone Die
-Trollhöhen-Karte wurde korrigiert
+### 🇫🇷 Français
 
+-   Correction d'un bug d'affichage dans la fenêtre de la carte
+
+### 🇬🇧 English
+
+-   Fixed a display bug in the map window
+
+### 🇩🇪 Deutsch
+
+-   Anzeigefehler im Kartenfenster behoben
+
 ------------------------------------------------------------------------
+
+## V3.24
 
-## 🔹 Version V3.23
+### 🇫🇷 Français
 
-(French) Rajout de la carte De l'angle de Mitheithel Rajout des 3
-teleport de la zone (English) Addition of the map From the angle of
-Mitheithel Addition of the 3 teleport of the area (Deutsche) Ergänzung
-der Karte Aus der Sicht von Mitheithel Hinzufügung der 3 Teleporter des
-Gebiets
+-   Rajout de la carte De la comté lointaine Rajout du nouveau teleport
+    de la zone Correction de la carte de la trouées des trolls
 
+### 🇬🇧 English
+
+-   Addition of the yorkshire map Addition of the new teleport of the
+    zone Fixed the Trollshaw map
+
+### 🇩🇪 Deutsch
+
+-   Hinzufügen der Die Fernen Auen-Karte Hinzufügung des neuen
+    Teleporters der Zone Die Trollhöhen-Karte wurde korrigiert
+
 ------------------------------------------------------------------------
+
+## V3.23
 
-## 🔹 Version V3.22
+### 🇫🇷 Français
 
-(French) Rajout de la carte de la zone d'abitations de Erebor (English)
-Addition of the map of the new housing area of Erebor (Deutsche)
-Ergänzung der Karte des neuen Wohngebiets von Erebor
+-   Rajout de la carte De l'angle de Mitheithel Rajout des 3 teleport de
+    la zone
 
+### 🇬🇧 English
+
+-   Addition of the map From the angle of Mitheithel Addition of the 3
+    teleport of the area
+
+### 🇩🇪 Deutsch
+
+-   Ergänzung der Karte Aus der Sicht von Mitheithel Hinzufügung der 3
+    Teleporter des Gebiets
+
 ------------------------------------------------------------------------
+
+## V3.22
 
-## 🔹 Version V3.21
+### 🇫🇷 Français
 
-(French) Rajout des la nouvelles zone d'abitations de Erebor (English)
-Addition of the new housing area of Erebor (Deutsche) Hinzufügung des
-neuen Wohngebiets von Erebor
+-   Rajout de la carte de la zone d'abitations de Erebor
 
+### 🇬🇧 English
+
+-   Addition of the map of the new housing area of Erebor
+
+### 🇩🇪 Deutsch
+
+-   Ergänzung der Karte des neuen Wohngebiets von Erebor
+
 ------------------------------------------------------------------------
+
+## V3.21
 
-## 🔹 Version V3.20
+### 🇫🇷 Français
 
-(French) Rajout d'une commande toggle (English) Addition of a toggle
-command (Deutsche) Hinzufügen eines Umschaltbefehls
+-   Rajout des la nouvelles zone d'abitations de Erebor
 
+### 🇬🇧 English
+
+-   Addition of the new housing area of Erebor
+
+### 🇩🇪 Deutsch
+
+-   Hinzufügung des neuen Wohngebiets von Erebor
+
 ------------------------------------------------------------------------
+
+## V3.20
+
+### 🇫🇷 Français
 
-## 🔹 Version V3.19
+-   Rajout d'une commande toggle
 
-(French) Corriger une erreur de positionnement d'un teleport (English)
-Correct a teleport positioning error (Deutsche) Korrigieren Sie einen
-Teleport-Positionierungsfehler
+### 🇬🇧 English
 
+-   Addition of a toggle command
+
+### 🇩🇪 Deutsch
+
+-   Hinzufügen eines Umschaltbefehls
+
 ------------------------------------------------------------------------
+
+## V3.19
+
+### 🇫🇷 Français
 
-## 🔹 Version V3.18
+-   Corriger une erreur de positionnement d'un teleport
 
-(French) Rajout des voyage de chasseur, sentinelle et de reputations,
-soit 7 nouveau (English) Added hunter, warden and reputations trips, so
-7 new (Deutsche) Jäger-, Wächter- und Reputationsreisen hinzugefügt,
-also 7 neue
+### 🇬🇧 English
 
+-   Correct a teleport positioning error
+
+### 🇩🇪 Deutsch
+
+-   Korrigieren Sie einen Teleport-Positionierungsfehler
+
 ------------------------------------------------------------------------
+
+## V3.18
+
+### 🇫🇷 Français
 
-## 🔹 Version V3.17
+-   Rajout des voyage de chasseur, sentinelle et de reputations, soit 7
+    nouveau
 
-(French) Corriger un bug creer avec la derniere mise à jour (English)
-Fix a bug created with the last update (Deutsche) Korrigieren Sie einen
-Fehler, der mit dem letzten Update erstellt wurde
+### 🇬🇧 English
 
+-   Added hunter, warden and reputations trips, so 7 new
+
+### 🇩🇪 Deutsch
+
+-   Jäger-, Wächter- und Reputationsreisen hinzugefügt, also 7 neue
+
 ------------------------------------------------------------------------
+
+## V3.17
+
+### 🇫🇷 Français
 
-## 🔹 Version V3.16
+-   Corriger un bug creer avec la derniere mise à jour
 
-(French) Mise à jour des 10 teleports de Gundabad (English) Update of
-the 10 telepots of Gundabad (Deutsche) Update der 10 Telepots von
-Gundabad
+### 🇬🇧 English
 
+-   Fix a bug created with the last update
+
+### 🇩🇪 Deutsch
+
+-   Korrigieren Sie einen Fehler, der mit dem letzten Update erstellt
+    wurde
+
 ------------------------------------------------------------------------
+
+## V3.16
+
+### 🇫🇷 Français
+
+-   Mise à jour des 10 teleports de Gundabad
 
-## 🔹 Version V3.15
+### 🇬🇧 English
 
-(French) Rajout des nouvelles cartes de Gundabad Rajout de 9 teleports
-(English) Addition of new maps of Gundabad Addition of 9 teleports
-(Deutsche) Hinzufügen neuer Karten von Gundabad 9 Teleporter hinzugefügt
+-   Update of the 10 telepots of Gundabad
 
+### 🇩🇪 Deutsch
+
+-   Update der 10 Telepots von Gundabad
+
 ------------------------------------------------------------------------
+
+## V3.15
+
+### 🇫🇷 Français
+
+-   Rajout des nouvelles cartes de Gundabad Rajout de 9 teleports
 
-## 🔹 Version V3.14
+### 🇬🇧 English
 
-(French) Rajout de la nouvelle classe le bagarreur (English) Addition of
-the new class the brawler (Deutsche) Aufnahme der neuen Klasse der
-Schläger
+-   Addition of new maps of Gundabad Addition of 9 teleports
 
+### 🇩🇪 Deutsch
+
+-   Hinzufügen neuer Karten von Gundabad 9 Teleporter hinzugefügt
+
 ------------------------------------------------------------------------
+
+## V3.14
+
+### 🇫🇷 Français
+
+-   Rajout de la nouvelle classe le bagarreur
 
-## 🔹 Version V3.13
+### 🇬🇧 English
 
-(French) Rajout de 3 teleports (English) Addition of 3 teleports
-(Deutsche) Hinzufügung von 3 Teleports
+-   Addition of the new class the brawler
 
+### 🇩🇪 Deutsch
+
+-   Aufnahme der neuen Klasse der Schläger
+
 ------------------------------------------------------------------------
+
+## V3.13
+
+### 🇫🇷 Français
+
+-   Rajout de 3 teleports
 
-## 🔹 Version V3.12
+### 🇬🇧 English
 
-(French) Rajout de 2 teleports (English) Addition of 2 teleports
-(Deutsche) Hinzufügung von 2 Teleports
+-   Addition of 3 teleports
 
+### 🇩🇪 Deutsch
+
+-   Hinzufügung von 3 Teleports
+
 ------------------------------------------------------------------------
+
+## V3.12
+
+### 🇫🇷 Français
+
+-   Rajout de 2 teleports
+
+### 🇬🇧 English
 
-## 🔹 Version V3.11
+-   Addition of 2 teleports
 
-(French) Rajout des nouveau teleport pour l'update 30 (English) Addition
-of new teleport for update 30 (Deutsche) Hinzufügen eines neuen
-Teleports für Update 30
+### 🇩🇪 Deutsch
 
+-   Hinzufügung von 2 Teleports
+
 ------------------------------------------------------------------------
+
+## V3.11
+
+### 🇫🇷 Français
+
+-   Rajout des nouveau teleport pour l'update 30
+
+### 🇬🇧 English
 
-## 🔹 Version V3.10
+-   Addition of new teleport for update 30
 
-(French) Nettoyage et optimisation du code (English) Code cleaning and
-optimization (Deutsche) Codebereinigung und -optimierung
+### 🇩🇪 Deutsch
 
+-   Hinzufügen eines neuen Teleports für Update 30
+
 ------------------------------------------------------------------------
+
+## V3.10
+
+### 🇫🇷 Français
+
+-   Nettoyage et optimisation du code
+
+### 🇬🇧 English
 
-## 🔹 Version V3.09
+-   Code cleaning and optimization
 
-(French) Rajout de 2 teleports (English) Addition of 2 teleports
-(Deutsche) Hinzufügung von 2 Teleports
+### 🇩🇪 Deutsch
 
+-   Codebereinigung und -optimierung
+
 ------------------------------------------------------------------------
+
+## V3.09
+
+### 🇫🇷 Français
+
+-   Rajout de 2 teleports
+
+### 🇬🇧 English
 
-## 🔹 Version V3.08
+-   Addition of 2 teleports
 
-(French) Rajout de 3 teleports (English) Addition of 3 teleports
-(Deutsche) Hinzufügung von 3 Teleports
+### 🇩🇪 Deutsch
 
+-   Hinzufügung von 2 Teleports
+
 ------------------------------------------------------------------------
+
+## V3.08
+
+### 🇫🇷 Français
+
+-   Rajout de 3 teleports
+
+### 🇬🇧 English
+
+-   Addition of 3 teleports
 
-## 🔹 Version V3.07
+### 🇩🇪 Deutsch
 
-(French) Correction de coordonées de teleport (English) Correction of
-teleport coordinates (Deutsche) Korrektur der Teleportkoordinaten
+-   Hinzufügung von 3 Teleports
 
 ------------------------------------------------------------------------
 
-## 🔹 Version V3.06
+## V3.07
 
-(French) Rajout de 2 teleports (English) Addition of 2 teleports
-(Deutsche) Hinzufügung von 2 Teleports
+### 🇫🇷 Français
 
+-   Correction de coordonées de teleport
+
+### 🇬🇧 English
+
+-   Correction of teleport coordinates
+
+### 🇩🇪 Deutsch
+
+-   Korrektur der Teleportkoordinaten
+
 ------------------------------------------------------------------------
+
+## V3.06
+
+### 🇫🇷 Français
+
+-   Rajout de 2 teleports
+
+### 🇬🇧 English
+
+-   Addition of 2 teleports
 
-## 🔹 Version V3.05
+### 🇩🇪 Deutsch
 
-(French) Rajout d'une ligne de commande pour activer la touche alt pour
-le deplacement de l'icone (English) Addition of a command line to
-activate the alt key for moving the icon (Deutsche) Hinzufügen einer
-Befehlszeile zum Aktivieren der Alt-Taste zum Verschieben des Symbols
+-   Hinzufügung von 2 Teleports
 
 ------------------------------------------------------------------------
 
-## 🔹 Version V3.04
+## V3.05
 
-(French) Rajout de 4 teleports (English) Addition of 4 teleports
-(Deutsche) Hinzufügung von 4 Teleports
+### 🇫🇷 Français
 
+-   Rajout d'une ligne de commande pour activer la touche alt pour le
+    deplacement de l'icone
+
+### 🇬🇧 English
+
+-   Addition of a command line to activate the alt key for moving the
+    icon
+
+### 🇩🇪 Deutsch
+
+-   Hinzufügen einer Befehlszeile zum Aktivieren der Alt-Taste zum
+    Verschieben des Symbols
+
 ------------------------------------------------------------------------
 
-## 🔹 Version V3.03
+## V3.04
 
-(French) Rajout de 14 teleports Reorganisation des teleports du Pays de
-Dun et du grand fleuve (English) Addition of 14 teleports Reorganization
-of the teleports of the Pays de Dun and the great river (Deutsche)
-Hinzufügung von 14 Teleports Neuordnung der Teleports der Pays de Dun
-und des großen Flusses
+### 🇫🇷 Français
 
+-   Rajout de 4 teleports
+
+### 🇬🇧 English
+
+-   Addition of 4 teleports
+
+### 🇩🇪 Deutsch
+
+-   Hinzufügung von 4 Teleports
+
 ------------------------------------------------------------------------
+
+## V3.03
 
-## 🔹 Version V3.02
+### 🇫🇷 Français
 
-(French) Rajout de 9 teleports (English) Addition of 9 teleports
-(Deutsche) Hinzufügung von 9 Teleports
+-   Rajout de 14 teleports Reorganisation des teleports du Pays de Dun
+    et du grand fleuve
 
+### 🇬🇧 English
+
+-   Addition of 14 teleports Reorganization of the teleports of the Pays
+    de Dun and the great river
+
+### 🇩🇪 Deutsch
+
+-   Hinzufügung von 14 Teleports Neuordnung der Teleports der Pays de
+    Dun und des großen Flusses
+
 ------------------------------------------------------------------------
+
+## V3.02
 
-## 🔹 Version V3.01
+### 🇫🇷 Français
 
-(French) Corriger un bug d'affichage dans la fenetre du Mordor Rajout de
-3 teleports (English) Fix a display bug in the Mordor window Addition of
-3 teleports (Deutsche) Behebung eines Anzeigefehlers im Mordor-Fenster
-Hinzufügung von 3 Teleports
+-   Rajout de 9 teleports
 
+### 🇬🇧 English
+
+-   Addition of 9 teleports
+
+### 🇩🇪 Deutsch
+
+-   Hinzufügung von 9 Teleports
+
 ------------------------------------------------------------------------
+
+## V3.01
 
-## 🔹 Version V3.0
+### 🇫🇷 Français
 
-(French) Réecrit tous les teleport du Mordor (English) Rewrote all
-teleports in Mordor (Deutsche) Alle Teleports in Mordor wurden neu
-geschrieben
+-   Corriger un bug d'affichage dans la fenetre du Mordor Rajout de 3
+    teleports
 
+### 🇬🇧 English
+
+-   Fix a display bug in the Mordor window Addition of 3 teleports
+
+### 🇩🇪 Deutsch
+
+-   Behebung eines Anzeigefehlers im Mordor-Fenster Hinzufügung von 3
+    Teleports
+
 ------------------------------------------------------------------------
+
+## V3.0
 
-## 🔹 Version V2.99
+### 🇫🇷 Français
 
-(French) Rajout de plusieurs teleports (English) Addition of several
-teleports (Deutsche) Hinzufügung mehrerer Teleports
+-   Réecrit tous les teleport du Mordor
 
+### 🇬🇧 English
+
+-   Rewrote all teleports in Mordor
+
+### 🇩🇪 Deutsch
+
+-   Alle Teleports in Mordor wurden neu geschrieben
+
 ------------------------------------------------------------------------
+
+## V2.99
+
+### 🇫🇷 Français
 
-## 🔹 Version V2.98
+-   Rajout de plusieurs teleports
 
-(French) Corriger un bug d'affichage dans la fenetre du Mordor Rajout de
-3 teleports (English) Fix a display bug in the Mordor window Addition of
-3 teleports (Deutsche) Behebung eines Anzeigefehlers im Mordor-Fenster
-Hinzufügung von 3 Teleports
+### 🇬🇧 English
 
+-   Addition of several teleports
+
+### 🇩🇪 Deutsch
+
+-   Hinzufügung mehrerer Teleports
+
 ------------------------------------------------------------------------
+
+## V2.98
+
+### 🇫🇷 Français
 
-## 🔹 Version V2.97
+-   Corriger un bug d'affichage dans la fenetre du Mordor Rajout de 3
+    teleports
 
-(French) Corriger un bug de sauvegarde qui affectait tous mes plugins
-(maudit, copier-coller) (English) Fix a backup bug that affected all my
-plugins (damn, copy and paste) (Deutsche) Behebung eines Backup-Fehlers,
-der alle meine Plugins betraf (verdammt, kopieren und einfügen)
+### 🇬🇧 English
 
+-   Fix a display bug in the Mordor window Addition of 3 teleports
+
+### 🇩🇪 Deutsch
+
+-   Behebung eines Anzeigefehlers im Mordor-Fenster Hinzufügung von 3
+    Teleports
+
 ------------------------------------------------------------------------
+
+## V2.97
+
+### 🇫🇷 Français
 
-## 🔹 Version V2.96
+-   Corriger un bug de sauvegarde qui affectait tous mes plugins
+    (maudit, copier-coller)
 
-(French) Rajout du val d'anduin et de plusieurs teleports (English)
-Addition of the val d'anduin and several teleports (Deutsche)
-Hinzufügung des Val d'anduin und mehrerer Teleports
+### 🇬🇧 English
 
+-   Fix a backup bug that affected all my plugins (damn, copy and paste)
+
+### 🇩🇪 Deutsch
+
+-   Behebung eines Backup-Fehlers, der alle meine Plugins betraf
+    (verdammt, kopieren und einfügen)
+
 ------------------------------------------------------------------------
+
+## V2.96
+
+### 🇫🇷 Français
 
-## 🔹 Version V2.95
+-   Rajout du val d'anduin et de plusieurs teleports
 
-(French) Repositionné correctement les teleport pour les nouvelles
-cartes de la mise a jour U29 (English) Correctly repositioned teleports
-for the new U29 update maps (Deutsche) Richtig neu positionierte
-Teleports für die neuen U29-Update-Karten
+### 🇬🇧 English
 
+-   Addition of the val d'anduin and several teleports
+
+### 🇩🇪 Deutsch
+
+-   Hinzufügung des Val d'anduin und mehrerer Teleports
+
 ------------------------------------------------------------------------
+
+## V2.95
+
+### 🇫🇷 Français
+
+-   Repositionné correctement les teleport pour les nouvelles cartes de
+    la mise a jour U29
 
-## 🔹 Version V2.92
+### 🇬🇧 English
 
-(French) Mise à jour pour l'update U29 (English) Updating to the U29
-update (Deutsche) Aktualisierung auf das U29-Update
+-   Correctly repositioned teleports for the new U29 update maps
 
+### 🇩🇪 Deutsch
+
+-   Richtig neu positionierte Teleports für die neuen U29-Update-Karten
+
 ------------------------------------------------------------------------
+
+## V2.92
+
+### 🇫🇷 Français
+
+-   Mise à jour pour l'update U29
 
-## 🔹 Version V2.91
+### 🇬🇧 English
 
-(French) Corriger un bug de traduction dans la version allemande et
-anglaise (English) Correct a translation bug in the German and English
-version (Deutsche) Korrigieren Sie einen Übersetzungsfehler in der
-deutschen und englischen Version
+-   Updating to the U29 update
 
+### 🇩🇪 Deutsch
+
+-   Aktualisierung auf das U29-Update
+
 ------------------------------------------------------------------------
+
+## V2.91
+
+### 🇫🇷 Français
+
+-   Corriger un bug de traduction dans la version allemande et anglaise
 
-## 🔹 Version V2.9
+### 🇬🇧 English
 
-(French) Ajout de nouvelles cartes Ajout de nouveau teleport Rajout
-d'une options pour verrouiller ou deverrouiller les icones (English)
-Adding new maps Added new milestones Addition of an option to lock or
-unlock the icons (Deutsche) Neue Karten hinzufügen Neue Meilensteine
-​​hinzugefügt Hinzufügen einer Option zum Sperren oder Entsperren der
-Symbole
+-   Correct a translation bug in the German and English version
 
+### 🇩🇪 Deutsch
+
+-   Korrigieren Sie einen Übersetzungsfehler in der deutschen und
+    englischen Version
+
 ------------------------------------------------------------------------
+
+## V2.9
+
+### 🇫🇷 Français
+
+-   Ajout de nouvelles cartes Ajout de nouveau teleport Rajout d'une
+    options pour verrouiller ou deverrouiller les icones
 
-## 🔹 Version V2.8
+### 🇬🇧 English
 
-(French) Ajout de nouvelles cartes Ajout de nouveau teleport Corriger un
-bug avec la touche escape (English) Adding new maps Added new milestones
-Correct a bug with the escape key (Deutsche) Neue Karten hinzufügen Neue
-Meilensteine ​​hinzugefügt Beheben Sie einen Fehler mit der Escape-Taste
+-   Adding new maps Added new milestones Addition of an option to lock
+    or unlock the icons
 
+### 🇩🇪 Deutsch
+
+-   Neue Karten hinzufügen Neue Meilensteine ​​hinzugefügt Hinzufügen
+    einer Option zum Sperren oder Entsperren der Symbole
+
 ------------------------------------------------------------------------
+
+## V2.8
+
+### 🇫🇷 Français
+
+-   Ajout de nouvelles cartes Ajout de nouveau teleport Corriger un bug
+    avec la touche escape
+
+### 🇬🇧 English
 
-## 🔹 Version V2.7
+-   Adding new maps Added new milestones Correct a bug with the escape
+    key
 
-(French) Ajout de nouvelles cartes Ajout de nouveau teleport (English)
-Adding new maps Added new milestones (Deutsche) Neue Karten hinzufügen
-Neue Meilensteine ​​hinzugefügt
+### 🇩🇪 Deutsch
 
+-   Neue Karten hinzufügen Neue Meilensteine ​​hinzugefügt Beheben Sie
+    einen Fehler mit der Escape-Taste
+
 ------------------------------------------------------------------------
+
+## V2.7
+
+### 🇫🇷 Français
+
+-   Ajout de nouvelles cartes Ajout de nouveau teleport
+
+### 🇬🇧 English
 
-## 🔹 Version V2.6
+-   Adding new maps Added new milestones
 
-(French) Ajout d'une icon sur la carte qui affiche l'emplacement de la
-teleportation Correction de quelques traduction Rajout de nouvelles map
-Correction du Mordor (English) Added an icon on the map that displays
-the location of the teleportation Correction of some translations
-Addition of new maps Correction of Mordor (Deutsche) Auf der Karte wurde
-ein Symbol hinzugefügt, das den Ort der Teleportation anzeigt Korrektur
-einiger Übersetzungen Hinzufügen neuer Karten Korrektur von Mordor
+### 🇩🇪 Deutsch
 
+-   Neue Karten hinzufügen Neue Meilensteine ​​hinzugefügt
+
 ------------------------------------------------------------------------
+
+## V2.6
+
+### 🇫🇷 Français
+
+-   Ajout d'une icon sur la carte qui affiche l'emplacement de la
+    teleportation Correction de quelques traduction Rajout de nouvelles
+    map Correction du Mordor
+
+### 🇬🇧 English
 
-## 🔹 Version V2.5
+-   Added an icon on the map that displays the location of the
+    teleportation Correction of some translations Addition of new maps
+    Correction of Mordor
 
-(French) Arranger les slots d'icones pour plus de finesse Maintenant
-besoin d'appuyer sur la touche alt pour déplacer l'icone pricipale Ajout
-de nouvelles cartes (English) Arrange the icon slots for more finesse
-Now need to press the alt key to move the main icon Adding new maps
-(Deutsche) Ordnen Sie die Symbol-Slots für mehr Finesse an Jetzt müssen
-Sie die Alt-Taste drücken, um das Hauptsymbol zu verschieben Neue Karten
-hinzufügen
+### 🇩🇪 Deutsch
 
+-   Auf der Karte wurde ein Symbol hinzugefügt, das den Ort der
+    Teleportation anzeigt Korrektur einiger Übersetzungen Hinzufügen
+    neuer Karten Korrektur von Mordor
+
 ------------------------------------------------------------------------
+
+## V2.5
+
+### 🇫🇷 Français
+
+-   Arranger les slots d'icones pour plus de finesse Maintenant besoin
+    d'appuyer sur la touche alt pour déplacer l'icone pricipale Ajout de
+    nouvelles cartes
+
+### 🇬🇧 English
 
-## 🔹 Version V2.4
+-   Arrange the icon slots for more finesse Now need to press the alt
+    key to move the main icon Adding new maps
 
-(French) Ajout de nouvelles cartes (English) Adding new maps (Deutsche)
-Neue Karten hinzufügen
+### 🇩🇪 Deutsch
 
+-   Ordnen Sie die Symbol-Slots für mehr Finesse an Jetzt müssen Sie die
+    Alt-Taste drücken, um das Hauptsymbol zu verschieben Neue Karten
+    hinzufügen
+
 ------------------------------------------------------------------------
+
+## V2.4
+
+### 🇫🇷 Français
+
+-   Ajout de nouvelles cartes
+
+### 🇬🇧 English
+
+-   Adding new maps
 
-## 🔹 Version V2.3
+### 🇩🇪 Deutsch
 
-(French) Ajout de nouvelles cartes Corriger un bug dans les cartes de
-Rhovanion (English) Adding new maps Fix a bug in Rhovanion maps
-(Deutsche) Neue Karten hinzufügen Behebung eines Fehlers in
-Rhovanion-Karten
+-   Neue Karten hinzufügen
 
 ------------------------------------------------------------------------
 
-## 🔹 Version V2.2
+## V2.3
 
-(French) Ajout de nouvelles cartes (English) Adding new maps (Deutsche)
-Neue Karten hinzufügen
+### 🇫🇷 Français
 
+-   Ajout de nouvelles cartes Corriger un bug dans les cartes de
+    Rhovanion
+
+### 🇬🇧 English
+
+-   Adding new maps Fix a bug in Rhovanion maps
+
+### 🇩🇪 Deutsch
+
+-   Neue Karten hinzufügen Behebung eines Fehlers in Rhovanion-Karten
+
 ------------------------------------------------------------------------
+
+## V2.2
+
+### 🇫🇷 Français
+
+-   Ajout de nouvelles cartes
+
+### 🇬🇧 English
+
+-   Adding new maps
 
-## 🔹 Version V2.1
+### 🇩🇪 Deutsch
 
-(French) Ajout de deux commande pour effacer les raccourcis /Voy
-clearteleport /Voy clearhouse Corriger la taille de la fenetre d'aide en
-allemand qui doit etre plus grande (English) Added two command to delete
-shortcuts /Voy clearteleport /Voy clearhouse Correct the size of the
-German help window which should be larger (Deutsche) Es wurden zwei
-Befehle zum Löschen von Verknüpfungen hinzugefügt /Voy clearteleport
-/Voy clearhouse Korrigieren Sie die Größe des deutschen Hilfefensters,
-das größer sein sollte
+-   Neue Karten hinzufügen
 
 ------------------------------------------------------------------------
 
-## 🔹 Version V2.0
+## V2.1
 
-(French) TRADUCTION TERMIEE Si vous rencontrer des erreurs de traduction
-SVP retourner les moi que je puisse faire la correction, c'est très
-difficile de traduire ce genre de texte (English) TRANSLATION COMPLETED
-If you encounter any translation errors please return them to me so I
-can do it. the correction, it is very difficult to translate this kind
-of text (Deutsche) ÜBERSETZUNG ABGESCHLOSSEN Wenn Sie auf
-Übersetzungsfehler stoßen, senden Sie diese bitte an mich zurück, damit
-ich dies tun kann. Bei der Korrektur ist es sehr schwierig, diese Art
-von Text zu übersetzen
+### 🇫🇷 Français
 
+-   Ajout de deux commande pour effacer les raccourcis /Voy
+    clearteleport /Voy clearhouse Corriger la taille de la fenetre
+    d'aide en allemand qui doit etre plus grande
+
+### 🇬🇧 English
+
+-   Added two command to delete shortcuts /Voy clearteleport /Voy
+    clearhouse Correct the size of the German help window which should
+    be larger
+
+### 🇩🇪 Deutsch
+
+-   Es wurden zwei Befehle zum Löschen von Verknüpfungen hinzugefügt
+    /Voy clearteleport /Voy clearhouse Korrigieren Sie die Größe des
+    deutschen Hilfefensters, das größer sein sollte
+
 ------------------------------------------------------------------------
 
-## 🔹 Version V1.06
+## V2.0
 
-(French) TRADUCTION PAS TERMIEE A 100% pour le français Réécriture de la
-fenetre d'options Rajout d'un clique droite sur l'icone qui affiche une
-carte de la destination des teleport (English) Rewrite the options
-window Addition of a right click on the icon which displays a map of the
-destination of the milestones (Deutsche) ÜBERSETZUNG NICHT 100%
-ABGESCHLOSSEN für Deutsch Schreiben Sie das Optionsfenster neu
-Hinzufügen eines Rechtsklicks auf das Symbol, das eine Karte des Ziels
-der Meilensteine ​​anzeigt
+### 🇫🇷 Français
 
+-   TRADUCTION TERMIEE Si vous rencontrer des erreurs de traduction SVP
+    retourner les moi que je puisse faire la correction, c'est très
+    difficile de traduire ce genre de texte
+
+### 🇬🇧 English
+
+-   TRANSLATION COMPLETED If you encounter any translation errors please
+    return them to me so I can do it. the correction, it is very
+    difficult to translate this kind of text
+
+### 🇩🇪 Deutsch
+
+-   ÜBERSETZUNG ABGESCHLOSSEN Wenn Sie auf Übersetzungsfehler stoßen,
+    senden Sie diese bitte an mich zurück, damit ich dies tun kann. Bei
+    der Korrektur ist es sehr schwierig, diese Art von Text zu
+    übersetzen
+
 ------------------------------------------------------------------------
+
+## V1.06
 
-## 🔹 Version V1.05
+### 🇫🇷 Français
 
-(French) Corriger un bug dans la command /default (English) Correct a
-bug in the /default command (Deutsche) Korrigieren Sie einen Fehler im
-Befehl /default
+-   TRADUCTION PAS TERMIEE A 100% pour le français Réécriture de la
+    fenetre d'options Rajout d'un clique droite sur l'icone qui affiche
+    une carte de la destination des teleport
 
+### 🇬🇧 English
+
+-   Rewrite the options window Addition of a right click on the icon
+    which displays a map of the destination of the milestones
+
+### 🇩🇪 Deutsch
+
+-   ÜBERSETZUNG NICHT 100% ABGESCHLOSSEN für Deutsch Schreiben Sie das
+    Optionsfenster neu Hinzufügen eines Rechtsklicks auf das Symbol, das
+    eine Karte des Ziels der Meilensteine ​​anzeigt
+
 ------------------------------------------------------------------------
+
+## V1.05
 
-## 🔹 Version V1.04
+### 🇫🇷 Français
 
-(French) Corriger un bug dans le monsterPlay Rajout d'une fenetre d'aide
-Rajout d'un clique droite sur l'icone qui affiche une carte de la
-destination Réécriture de la fenetre d'options Correction de la
-traduction (English) Fix some bugs Correct a bug in the monsterPlay
-Addition of a help window Addition of a right click on the icon which
-displays a map of the destination Rewrite the options window Correction
-of the translation (Deutsche) Beheben Sie einen Fehler im monsterPlay
-Hinzufügen eines Hilfefensters Hinzufügen eines Rechtsklicks auf das
-Symbol, das eine Karte des Ziels anzeigt Schreiben Sie das
-Optionsfenster neu Korrektur der Übersetzung
+-   Corriger un bug dans la command /default
 
+### 🇬🇧 English
+
+-   Correct a bug in the /default command
+
+### 🇩🇪 Deutsch
+
+-   Korrigieren Sie einen Fehler im Befehl /default
+
 ------------------------------------------------------------------------
+
+## V1.04
 
-## 🔹 Version V1.02
+### 🇫🇷 Français
 
-(French) Corriger quelques bug Corriger la version monsterPlay qui
-permet de conserver l'edition personel des raccourcis (English) Fix some
-bugs Correct the monsterPlay version which allows you to keep the
-personal edition of the shortcuts (Deutsche) Beheben Sie einige Fehler
-Korrigieren Sie die monsterPlay-Version, mit der Sie die persönliche
-Ausgabe der Verknüpfungen beibehalten können
+-   Corriger un bug dans le monsterPlay Rajout d'une fenetre d'aide
+    Rajout d'un clique droite sur l'icone qui affiche une carte de la
+    destination Réécriture de la fenetre d'options Correction de la
+    traduction
 
+### 🇬🇧 English
+
+-   Fix some bugs Correct a bug in the monsterPlay Addition of a help
+    window Addition of a right click on the icon which displays a map of
+    the destination Rewrite the options window Correction of the
+    translation
+
+### 🇩🇪 Deutsch
+
+-   Beheben Sie einen Fehler im monsterPlay Hinzufügen eines
+    Hilfefensters Hinzufügen eines Rechtsklicks auf das Symbol, das eine
+    Karte des Ziels anzeigt Schreiben Sie das Optionsfenster neu
+    Korrektur der Übersetzung
+
 ------------------------------------------------------------------------
+
+## V1.02
+
+### 🇫🇷 Français
+
+-   Corriger quelques bug Corriger la version monsterPlay qui permet de
+    conserver l'edition personel des raccourcis
+
+### 🇬🇧 English
+
+-   Fix some bugs Correct the monsterPlay version which allows you to
+    keep the personal edition of the shortcuts
+
+### 🇩🇪 Deutsch
+
+-   Beheben Sie einige Fehler Korrigieren Sie die monsterPlay-Version,
+    mit der Sie die persönliche Ausgabe der Verknüpfungen beibehalten
+    können
