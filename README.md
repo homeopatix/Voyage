@@ -1,4 +1,5 @@
-`<img width="1536" height="1024" alt="homeo_plugins" src="https://github.com/user-attachments/assets/435fdf91-b616-46ca-be02-105f250d0e4c" />`{=html}
+<img width="1536" height="1024" alt="homeo_plugins" src="https://github.com/user-attachments/assets/0e478c0d-3bc8-418a-9da9-f264ca2ddc7e" />
+
 
 # 👥 Voyage -- LOTRO Plugin
 
@@ -31,21 +32,21 @@ voyages de classe, réputations, races et zones.
 
 ## 📌 Commandes Chat
 
-  Commande               Description
+  Commande               Description\
   ---------------------- -----------------------------------\
-  `/Voy toggle`          Bascule l'affichage de la fenêtre
-  `/Voy clearteleport`   Efface les raccourcis de téléport
-  `/Voy clearhouse`      Efface les raccourcis de maison
+  `/Voy toggle`          Bascule l'affichage de la fenêtre\
+  `/Voy clearteleport`   Efface les raccourcis de téléport\
+  `/Voy clearhouse`      Efface les raccourcis de maison\
 
 ------------------------------------------------------------------------
 
 ## 🎹 Raccourcis
 
-  Action                          Touche
+  Action                          Touche\
   ------------------------------- --------------------------\
-  Déplacer l'icône                ALT (si activé)
-  Ouvrir les options              SHIFT + clic sur l'icône
-  Afficher la carte destination   Clic droit sur l'icône
+  Déplacer l'icône                ALT (si activé)\
+  Ouvrir les options              SHIFT + clic sur l'icône\
+  Afficher la carte destination   Clic droit sur l'icône\
 
 ------------------------------------------------------------------------
 
