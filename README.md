@@ -1,97 +1,123 @@
-# Voyage
+`<img width="1536" height="1024" alt="homeo_plugins" src="https://github.com/user-attachments/assets/435fdf91-b616-46ca-be02-105f250d0e4c" />`{=html}
 
-> **LOTRO plugin** — quick access to your Travel / Milestone skills (drag & drop shortcuts, right‑click options). citeturn15search0
+# 👥 Voyage -- LOTRO Plugin
 
----
+![Lua](https://img.shields.io/badge/Lua-Plugin-blue)
+![LOTRO](https://img.shields.io/badge/Game-LOTRO-darkgreen)
+![Status](https://img.shields.io/badge/status-active-success)
+![License](https://img.shields.io/badge/license-MIT-green)
 
-## Table of contents
-- [Présentation](#présentation)
-- [Fonctionnalités](#fonctionnalités)
-- [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Raccourcis & commandes](#raccourcis--commandes)
-- [Données](#données)
-- [Dépannage](#dépannage)
-- [Crédits](#crédits)
-- [Licence](#licence)
+Voyage est un plugin **Lua pour The Lord of the Rings Online (LOTRO)**\
+permettant d'avoir un accès rapide et organisé à tous vos téléports :
+voyages de classe, réputations, races et zones.
 
----
+------------------------------------------------------------------------
 
-## Présentation
+# 🚀 Fonctionnalités
 
-### 🇫🇷 Français
-**Voyage** est un petit plugin qui donne un accès rapide à vos compétences de voyage (Travel / Milestone).  
-Vous pouvez **déplacer les raccourcis** (drag & drop) pour organiser les téléports comme vous le souhaitez. citeturn15search0
+✔️ Accès rapide à tous les téléports\
+✔️ Voyages de classe (Chasseur, Marin, etc.)\
+✔️ Téléports de réputation\
+✔️ Téléports raciaux\
+✔️ Organisation par cartes et régions\
+✔️ Drag & Drop des raccourcis\
+✔️ Option pour verrouiller/déverrouiller les icônes\
+✔️ Support multi-langues\
+✔️ Compatible MonsterPlay
 
-### 🇬🇧 English
-**Voyage** is a small plugin to have **quick access** to your travel skills.  
-You can **move shortcuts** (drag & drop) to organize them the way you want. citeturn15search0
+------------------------------------------------------------------------
 
-### 🇩🇪 Deutsch
-**Voyage** ist ein kleines Plugin für den **schnellen Zugriff** auf Reise-/Teleport‑Fertigkeiten.  
-Sie können die **Verknüpfungen per Drag & Drop** verschieben und frei anordnen. citeturn15search0
+# 🎮 Commandes & Raccourcis
 
----
+## 📌 Commandes Chat
 
-## Fonctionnalités
-- Accès rapide aux **skills de voyage** (Travel / Milestones / téléports).
-- **Organisation libre** des raccourcis (drag & drop).
-- **Clic droit** sur l’icône pour ouvrir les options. citeturn15search0
-- Mise à jour régulière des cartes / destinations (selon vos versions).
+  Commande               Description
+  ---------------------- -----------------------------------
+  `/Voy toggle`          Bascule l'affichage de la fenêtre
+  `/Voy clearteleport`   Efface les raccourcis de téléport
+  `/Voy clearhouse`      Efface les raccourcis de maison
 
----
+------------------------------------------------------------------------
 
-## Installation
+## 🎹 Raccourcis
 
-1. Téléchargez l’archive du plugin (via LotroInterface / Plugin Compendium).
-2. Décompressez dans :
-   - `Documents\The Lord of the Rings Online\Plugins\`
-3. Lancez le jeu, puis chargez le plugin :
-   - `/plugins load Voyage`
+  Action                          Touche
+  ------------------------------- --------------------------
+  Déplacer l'icône                ALT (si activé)
+  Ouvrir les options              SHIFT + clic sur l'icône
+  Afficher la carte destination   Clic droit sur l'icône
 
-> Astuce : avec **LOTRO Plugin Compendium**, l’installation et les mises à jour sont souvent plus simples.
+------------------------------------------------------------------------
 
----
+# 🧩 Installation
 
-## Utilisation
-- **Clic gauche** : afficher / masquer la fenêtre (selon vos options).
-- **Clic droit** sur l’icône : ouvrir la fenêtre d’options. citeturn15search0
-- **Drag & drop** : réorganiser les téléports comme vous le souhaitez. citeturn15search0
+1.  Télécharger le ZIP depuis GitHub ou LOTROInterface.
+2.  Extraire le dossier.
+3.  Copier le dossier `Voyage` dans :
 
-Pour une version “pas à pas”, voir: **`Voyage_usage.md`** (fourni ci‑dessous).
+Documents`\The `{=tex}Lord of the Rings
+Online`\Plugins`{=tex}`\Homeopatix`{=tex}
 
----
+4.  En jeu :
 
-## Raccourcis & commandes
+/plugins load Voyage
 
-> ⚠️ Les commandes exactes peuvent varier selon votre version (ex: ajout d’un `toggle`, commandes de nettoyage, etc.).  
-> Si vous me donnez la liste exacte (ou un extrait de ton ancien README/Help), je te les formate au millimètre dans cette même structure.
+------------------------------------------------------------------------
 
-### Exemples (courants dans tes plugins)
-- `/Voy toggle` — afficher / masquer la fenêtre (si présent dans ta version)
-- `/Voy clearteleport` — effacer les raccourcis téléport (si présent)
-- `/Voy clearhouse` — effacer les raccourcis maison (si présent)
+# 💾 Données & Synchronisation
 
----
+Les paramètres sont sauvegardés automatiquement à chaque
+connexion/déconnexion.
 
-## Données
-- Les paramètres sont stockés dans `...\PluginData\<compte>\<serveur>\<perso>\`
-- Certains correctifs peuvent demander de supprimer un fichier `*_Settings.plugindata` (si mentionné dans ton changelog).
+Les fichiers sont enregistrés dans :
 
----
+Documents`\The `{=tex}Lord of the Rings
+Online`\PluginData`{=tex}\<Compte\>\<Serveur\>\<Personnage\>
 
-## Dépannage
-- **Il manque des destinations / téléports** : vérifiez votre version, et comparez avec le changelog.
-- **Problème d’affichage / icônes** : testez en supprimant les données de configuration (plugindata) puis reconfigurez.
-- **Le plugin ne se charge pas** : vérifiez le chemin d’installation et le nom du dossier (case sensitive sous certains environnements).
+------------------------------------------------------------------------
 
----
+# 🏗️ Architecture
 
-## Crédits
-- Auteur : **homeopatix**
-- Merci aux contributeurs et traducteurs (selon tes changelogs).
+-   Langage : **Lua**
+-   Type : Plugin LOTRO
+-   Stockage : Données locales (PluginData)
+-   Compatibilité : Toutes versions LOTRO récentes
 
----
+------------------------------------------------------------------------
 
-## Licence
-Si tu veux, je te colle ici la **licence MIT** (ou celle exacte que tu utilises) dans un fichier `LICENSE` séparé, comme pour tes autres dépôts.
+# ❗ Requirements / Besoins / Bedürfnisse
+
+## 🇫🇷 !!! Besoins !!!
+
+Vous devez avoir installé le package **Turbine**.\
+Vous pouvez le télécharger à cette adresse :\
+https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html
+
+------------------------------------------------------------------------
+
+## 🇬🇧 !!! Needs !!!
+
+You need to have the **Turbine package** installed.\
+You can download it at this address:\
+https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html
+
+------------------------------------------------------------------------
+
+## 🇩🇪 !!! Bedürfnisse !!!
+
+Sie müssen das **Turbine-Paket** installiert haben.\
+Sie können es unter dieser Adresse herunterladen:\
+https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html
+
+------------------------------------------------------------------------
+
+# 📜 License
+
+This project is licensed under the MIT License -- see the LICENSE file
+for details.
+
+------------------------------------------------------------------------
+
+# 👤 Auteur
+
+Homeopatix
