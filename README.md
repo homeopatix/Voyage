@@ -32,7 +32,7 @@ voyages de classe, réputations, races et zones.
 ## 📌 Commandes Chat
 
   Commande               Description
-  ---------------------- -----------------------------------
+  ---------------------- -----------------------------------\
   `/Voy toggle`          Bascule l'affichage de la fenêtre
   `/Voy clearteleport`   Efface les raccourcis de téléport
   `/Voy clearhouse`      Efface les raccourcis de maison
@@ -42,7 +42,7 @@ voyages de classe, réputations, races et zones.
 ## 🎹 Raccourcis
 
   Action                          Touche
-  ------------------------------- --------------------------
+  ------------------------------- --------------------------\
   Déplacer l'icône                ALT (si activé)
   Ouvrir les options              SHIFT + clic sur l'icône
   Afficher la carte destination   Clic droit sur l'icône
@@ -55,12 +55,11 @@ voyages de classe, réputations, races et zones.
 2.  Extraire le dossier.
 3.  Copier le dossier `Voyage` dans :
 
-Documents`\The `{=tex}Lord of the Rings
-Online`\Plugins`{=tex}`\Homeopatix`{=tex}
+    Documents\The Lord of the Rings Online\Plugins\Homeopatix
 
 4.  En jeu :
-
-/plugins load Voyage
+    
+    /plugins load Voyage
 
 ------------------------------------------------------------------------
 
@@ -71,8 +70,7 @@ connexion/déconnexion.
 
 Les fichiers sont enregistrés dans :
 
-Documents`\The `{=tex}Lord of the Rings
-Online`\PluginData`{=tex}\<Compte\>\<Serveur\>\<Personnage\>
+  Documents\The Lord of the Rings Online\PluginData\<Compte>\<Serveur>\<Personnage>
 
 ------------------------------------------------------------------------
 
@@ -90,24 +88,21 @@ Online`\PluginData`{=tex}\<Compte\>\<Serveur\>\<Personnage\>
 ## 🇫🇷 !!! Besoins !!!
 
 Vous devez avoir installé le package **Turbine**.\
-Vous pouvez le télécharger à cette adresse :\
-https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html
+Vous pouvez le télécharger à cette adresse : **[ICI](https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html)**
 
 ------------------------------------------------------------------------
 
 ## 🇬🇧 !!! Needs !!!
 
 You need to have the **Turbine package** installed.\
-You can download it at this address:\
-https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html
+You can download it at this address: **[HERE](https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html)**
 
 ------------------------------------------------------------------------
 
 ## 🇩🇪 !!! Bedürfnisse !!!
 
 Sie müssen das **Turbine-Paket** installiert haben.\
-Sie können es unter dieser Adresse herunterladen:\
-https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html
+Sie können es unter dieser Adresse herunterladen: **[HIER](https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html)**
 
 ------------------------------------------------------------------------
 
