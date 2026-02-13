@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1125</Id>
+  <Name>Voyage</Name>
+  <Version>3.48</Version>
+  <Author>Homeopatix</Author>
+		<Description>
+DESCRIPTION (Francais)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Voyage est un petit plugin pour avoir un acces rapide a vos cometence de voyage
+Vous pouvez deplacer les raccourci pour les organiser comme vous le desirer
+Clique droite sur l'icone pour ouvrir la fenetre d'options
+
+DESCRIPTION (English)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Voyage is a small plugin to have quick access to your travel skills
+You can move the shortcuts to organize them as you want
+Right click on the icon to open the options window
+
+DESCRIPTION (Deutsche)  
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Voyage ist ein kleines Plugin, mit dem Sie schnell auf Ihre Reisefahigkeiten zugreifen konnen
+Sie konnen die Verknupfungen verschieben, um sie nach Ihren Wunschen zu organisieren
+Klicken Sie mit der rechten Maustaste auf das Symbol, um das Optionsfenster zu offnen
+
+LIST OF ALL COMMANDS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+(French)
+Raccourci disponible
+/Voy help - affiche la fenetre. d'aide
+/Voy show - affiche la fenetre
+/Voy hide - cache la fenetre
+/Voy lock - pour verrouille ou deverrouille les icones
+/Voy default - reinitialise les raccourcis
+/Voy options - affiche la fenetre d'options
+/Voy clear - efface tous les raccourcis
+/Voy clearteleport - Efface tous les teleports
+/Voy alt - Active ou desactive la touche alt pour le deplacement de l'icon
+/Voy clearhouse - Efface toute les emplacments de maison
+/Voy toggle - Affiche ou cache la fenetre
+
+(English)
+Shortcut available
+/Voy help - Show the help window
+/Voy show - Show the window
+/Voy hide - Hide the window
+/Voy default - Reset shortcuts
+/Voy lock - to lock or unlock the icons
+/Voy options - Display the options window
+/Voy clear - Delete all shortcuts
+/Voy clearteleport - Delete all the milestones location
+/Voy alt - Activate or deactivate the alt key to move the icon
+/Voy clearhouse - Delete all the houses locations
+/Voy toggle - Display or hide the window
+
+(Deutsche)
+Verknupfung verfugbar
+/Voy help - Schaufenster help
+/Voy show - Schaufenster
+/Voy hide - verstecke das Fenster
+/Voy default - Verknupfungen zurucksetzen
+/Voy lock um die Symbole zu sperren oder zu entsperren
+/Voy options - Zeigen Sie das Optionsfenster an
+/Voy clear - Loschen Sie alle Verknupfungen
+/Voy clearteleport - Loschen Sie alle Meilensteinpositionen
+/Voy alt - ALT-Taste gedruckt halten, um das Symbol zu verschieben
+/Voy clearhouse - Loschen Sie alle Standorte der Houser
+/Voy toggle - Fenster ein-oder ausblenden
+</Description>
+  <InfoUrl>http://www.lotrointerface.com/downloads/info1125</InfoUrl>
+  <DownloadUrl>http://www.lotrointerface.com/downloads/download1125</DownloadUrl>
+  <Descriptors>
+    <descriptor>Homeopatix\Voyage.plugin</descriptor>
+  </Descriptors>
+</PluginConfig>
