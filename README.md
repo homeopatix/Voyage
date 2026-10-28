@@ -1,6 +1,10 @@
 # Voyage
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/1b3f50fe-a4c1-4d38-9215-a1f839d7a76b" alt="Voyage plugin hero banner" width="1200" />
+</p>
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/0e478c0d-3bc8-418a-9da9-f264ca2ddc7e" alt="Voyage plugin preview" width="1200" />
 </p>
 
