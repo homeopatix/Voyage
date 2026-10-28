@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0e478c0d-3bc8-418a-9da9-f264ca2ddc7e" alt="Voyage plugin preview" width="1200" />
-</p>
-
-<p align="center">
   <img alt="Lua" src="https://img.shields.io/badge/Lua-Plugin-blue" />
   <img alt="LOTRO" src="https://img.shields.io/badge/Game-LOTRO-darkgreen" />
   <img alt="Status" src="https://img.shields.io/badge/status-active-success" />
